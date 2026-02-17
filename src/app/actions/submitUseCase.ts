@@ -157,25 +157,32 @@ export async function submitUseCase(
     const sheets = google.sheets({ version: "v4", auth });
 
     // Sanitize all text values for Google Sheets formula injection
+    const timestamp = new Date().toISOString();
     const row = [
-      new Date().toISOString(),
-      sanitizeForSheet(title),
-      sanitizeForSheet(description),
-      sanitizeForSheet(submitterName),
-      sanitizeForSheet(contact),
-      sourceUrl, // Already validated by validateUrl()
-      safeCategory, // From allowlist, safe
-      safeDifficulty, // From allowlist, safe
-      sanitizeForSheet(estimatedCost),
-      sanitizeForSheet(skills),
-      monetizable,
-      allowAttribution,
-      "pending",
+      timestamp,                        // A: Timestamp
+      sanitizeForSheet(title),          // B: Title
+      sanitizeForSheet(description),    // C: Description
+      sanitizeForSheet(submitterName),  // D: Submitter Name
+      sanitizeForSheet(contact),        // E: Contact
+      sourceUrl,                        // F: URL (validated)
+      safeCategory,                     // G: Category (allowlist)
+      safeDifficulty,                   // H: Difficulty (allowlist)
+      sanitizeForSheet(estimatedCost),  // I: Monthly Cost
+      sanitizeForSheet(skills),         // J: Skills
+      monetizable,                      // K: Monetizable
+      allowAttribution,                 // L: Attribution
+      "pending",                        // M: Status
+      "community_submission",           // N: source_type
+      timestamp,                        // O: date_found
+      "",                               // P: validation_notes (internal)
+      "",                               // Q: research_confidence (internal)
+      "",                               // R: kimi_query (internal)
+      "",                               // S: raw_json (internal)
     ];
 
     await sheets.spreadsheets.values.append({
       spreadsheetId: process.env.GOOGLE_SHEET_ID,
-      range: "Tabellenblatt1!A:M",
+      range: "Tabellenblatt1!A:S",
       valueInputOption: "USER_ENTERED",
       requestBody: { values: [row] },
     });
