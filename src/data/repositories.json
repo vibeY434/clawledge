@@ -1,0 +1,137 @@
+[
+  {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "description": "The core OpenClaw repository — autonomous AI agent framework with 150K+ stars. The fastest-growing open-source project of 2025.",
+    "stars": 150000,
+    "category": "development",
+    "isOfficial": true,
+    "lastUpdated": "2026-02-12"
+  },
+  {
+    "name": "rohitg00/awesome-openclaw",
+    "url": "https://github.com/rohitg00/awesome-openclaw",
+    "description": "The biggest community resource list for OpenClaw — skills, tools, tutorials, and integrations. 179K+ stars.",
+    "stars": 179000,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-10"
+  },
+  {
+    "name": "VoltAgent/awesome-openclaw-skills",
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "description": "Curated catalog of 2,999+ OpenClaw skills organized by category — productivity, dev tools, smart home, finance, and more.",
+    "stars": 4200,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-09"
+  },
+  {
+    "name": "BankrBot/openclaw-skills",
+    "url": "https://github.com/BankrBot/openclaw-skills",
+    "description": "Crypto and trading-focused OpenClaw skills — DeFi monitoring, portfolio tracking, on-chain analytics.",
+    "stars": 1800,
+    "category": "crypto",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-05"
+  },
+  {
+    "name": "lekt9/unbrowse-openclaw",
+    "url": "https://github.com/lekt9/unbrowse-openclaw",
+    "description": "Self-learning API skill generator — reverse-engineers website APIs so OpenClaw can skip browser automation entirely. Up to 100x faster.",
+    "stars": 3500,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-07"
+  },
+  {
+    "name": "lekt9/openclaw-foundry",
+    "url": "https://github.com/lekt9/openclaw-foundry",
+    "description": "Meta-extension that lets OpenClaw write its own skills. Self-improving AI agent toolkit.",
+    "stars": 2100,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-01-28"
+  },
+  {
+    "name": "cloudflare/moltworker",
+    "url": "https://github.com/cloudflare/moltworker",
+    "description": "Deploy OpenClaw as a serverless AI agent on Cloudflare Workers — edge computing with Durable Objects for persistent state.",
+    "stars": 5800,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-11"
+  },
+  {
+    "name": "techartdev/OpenClawHomeAssistant",
+    "url": "https://github.com/techartdev/OpenClawHomeAssistant",
+    "description": "Home Assistant add-on for OpenClaw — control your smart home with natural language. Lights, climate, locks, routines.",
+    "stars": 2800,
+    "category": "smart-home",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-06"
+  },
+  {
+    "name": "essamamdani/openclaw-coolify",
+    "url": "https://github.com/essamamdani/openclaw-coolify",
+    "description": "Self-hosted OpenClaw deployment using Coolify — run your own agent server without cloud dependencies.",
+    "stars": 1200,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-01-25"
+  },
+  {
+    "name": "backslash-security/Claw-Hunter",
+    "url": "https://github.com/backslash-security/Claw-Hunter",
+    "description": "Security detection tool — identifies rogue OpenClaw instances, prompt injection attempts, and unauthorized agent activity.",
+    "stars": 950,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-03"
+  },
+  {
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "description": "Community-curated collection of verified OpenClaw use cases and integrations with setup guides.",
+    "stars": 2500,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-08"
+  },
+  {
+    "name": "SamurAIGPT/awesome-openclaw",
+    "url": "https://github.com/SamurAIGPT/awesome-openclaw",
+    "description": "Alternative awesome-list focused on practical tutorials, video walkthroughs, and getting-started guides.",
+    "stars": 3100,
+    "category": "development",
+    "isOfficial": false,
+    "lastUpdated": "2026-02-04"
+  },
+  {
+    "name": "intelliot/Awesome-OpenClaw",
+    "url": "https://github.com/intelliot/Awesome-OpenClaw",
+    "description": "Tips, tricks, and advanced configuration guides — power-user knowledge for getting the most out of OpenClaw.",
+    "stars": 1600,
+    "category": "productivity",
+    "isOfficial": false,
+    "lastUpdated": "2026-01-30"
+  },
+  {
+    "name": "openclaw/clawhub",
+    "url": "https://github.com/openclaw/clawhub",
+    "description": "Official skills marketplace source — browse, publish, and discover 5,700+ community-built OpenClaw skills.",
+    "stars": 8500,
+    "category": "development",
+    "isOfficial": true,
+    "lastUpdated": "2026-02-12"
+  },
+  {
+    "name": "openclaw/openclaw-docs",
+    "url": "https://github.com/openclaw/openclaw-docs",
+    "description": "Official OpenClaw documentation — setup guides, API reference, skill development, and deployment tutorials.",
+    "stars": 4500,
+    "category": "development",
+    "isOfficial": true,
+    "lastUpdated": "2026-02-11"
+  }
+]

@@ -1,14 +1,24 @@
 {
-  "name": "clawbib-temp",
+  "name": "openclaw-hub",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import": "node scripts/import-excel.mjs",
+    "add-cases": "node scripts/add-cases.mjs",
+    "verify": "node scripts/verify-urls.mjs",
+    "stats": "node scripts/stats.mjs",
+    "weekly": "node scripts/add-cases.mjs && npm run build && npx vercel deploy --prod --yes"
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@vercel/analytics": "^1.6.1",
+    "fuse.js": "^7.1.0",
+    "googleapis": "^171.4.0",
+    "lucide-react": "^0.563.0",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
@@ -21,6 +31,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "xlsx": "^0.18.5"
   }
 }

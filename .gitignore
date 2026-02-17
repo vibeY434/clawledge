@@ -36,6 +36,28 @@ yarn-error.log*
 # vercel
 .vercel
 
+# Google Cloud credentials
+Google Cloud Console/
+
+# Claude Code
+.claude/
+.claude.zip
+
+# Branding assets (large binary files)
+x banner logo profile pic/
+
+# Personal config files
+soul.md
+twitter api.txt
+
+# weekly workflow
+scripts/pending/*.json
+scripts/pending/done/
+scripts/url-report.json
+openclawusecases.xlsx
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
