@@ -8459,5 +8459,1542 @@
     "impactScore": 5,
     "relatedSkills": [],
     "relatedRepos": []
+  },
+  {
+    "id": "pr-review-to-telegram-feedback",
+    "title": "PR Review to Telegram Feedback",
+    "description": "OpenCode finishes a code change and opens a PR. OpenClaw then reviews the diff and replies in Telegram with minor suggestions plus a clear merge verdict. Automates the entire code review feedback loop.",
+    "fullContent": "This use case bridges the gap between code review and team communication. When OpenCode completes a change and opens a pull request, OpenClaw steps in as an automated reviewer. It analyzes the diff, identifies potential issues, and sends structured feedback directly to Telegram.\n\nThe beauty of this setup is the merge verdict: instead of going back and forth in GitHub comments, you get a clear yes/no with specific suggestions right in your messaging app. This is particularly powerful for solo developers or small teams who want fast feedback without context-switching.",
+    "category": "development",
+    "tags": [
+      "code-review",
+      "github",
+      "telegram",
+      "automation",
+      "pr-review"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/i/status/2010878524543131691",
+      "author": "bangnokia",
+      "authorHandle": "@bangnokia"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "GitHub repository",
+      "Telegram bot token",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-20",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "wine-cellar-skill-in-minutes",
+    "title": "Wine Cellar Skill in Minutes",
+    "description": "Asked OpenClaw for a local wine cellar management skill. It requested a sample CSV export and storage location, then built and tested the skill fast, handling 962 bottles in the example.",
+    "fullContent": "A perfect demonstration of OpenClaw skill-building capabilities. The user simply asked for a wine cellar management tool, and OpenClaw took it from there: it asked for a CSV export of existing inventory, understood the data structure, and generated a complete skill.\n\nThe resulting skill can track bottles, search by vintage/region/grape, suggest pairings, and manage inventory. The fact that it handled 962 bottles without issues shows the robustness of locally-built skills.",
+    "category": "productivity",
+    "tags": [
+      "skills",
+      "csv",
+      "inventory",
+      "local-data",
+      "wine"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "30 minutes",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/i/status/2010916352454791216",
+      "author": "prades_maxime",
+      "authorHandle": "@prades_maxime"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$5-10",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "tesco-shop-autopilot",
+    "title": "Tesco Shop Autopilot",
+    "description": "Weekly meal plan to grocery order: generates meal plan, adds regulars, books delivery slot, confirms order. No APIs needed, just browser control.",
+    "fullContent": "This automation handles the entire weekly grocery shopping workflow end-to-end. Starting from a meal plan, OpenClaw navigates Tesco via browser control, adds all necessary items, selects a delivery slot, and confirms.\n\nWhat makes this impressive is that it works without any official API. OpenClaw uses pure browser automation. For families or busy professionals, this could save 30-60 minutes per week.",
+    "category": "productivity",
+    "tags": [
+      "automation",
+      "browser-control",
+      "shopping",
+      "grocery",
+      "meal-planning"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/i/status/2009724862470689131",
+      "author": "marchattonhere",
+      "authorHandle": "@marchattonhere"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Tesco account",
+      "Browser automation",
+      "Always-on machine"
+    ],
+    "monthlyApiCost": "$15-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "snag-screenshot-to-markdown",
+    "title": "SNAG Screenshot-to-Markdown",
+    "description": "Hotkey a screen region, Gemini vision converts it to instant Markdown in your clipboard. Perfect for documentation workflows.",
+    "fullContent": "SNAG combines screen capture with AI vision to produce clean Markdown output. Press a hotkey, select a screen region, and Gemini vision converts the content into properly formatted Markdown in your clipboard.\n\nIncredibly useful for documentation: screenshot a UI, get structured Markdown. Capture code from a video, get formatted code blocks. Open source on GitHub.",
+    "category": "development",
+    "tags": [
+      "devtools",
+      "screenshots",
+      "markdown",
+      "gemini",
+      "clipboard"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "15 minutes",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/am-will/snag",
+      "author": "am-will"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$5-10",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "am-will/snag"
+    ]
+  },
+  {
+    "id": "agents-ui-desktop-manager",
+    "title": "Agents UI Desktop Manager",
+    "description": "Desktop app to manage skills and commands across Claude, Codex, and OpenClaw. Sync and organize your agent ecosystem from one interface.",
+    "fullContent": "kitze shared their OpenClaw setup.\n\n## Overview\n\nDesktop app to manage skills and commands across Claude, Codex, and OpenClaw. Sync and organize your agent ecosystem from one interface.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $0\n\n## Source\n\n[Original post](https://releaseflow.net/kitze/agents-ui)",
+    "category": "development",
+    "tags": [
+      "ui",
+      "skills",
+      "agent-management",
+      "desktop-app"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://releaseflow.net/kitze/agents-ui",
+      "author": "kitze"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$0",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "telegram-voice-notes-via-tts",
+    "title": "Telegram Voice Notes via TTS",
+    "description": "Wraps papla.media TTS and sends results as Telegram voice notes without autoplay. Natural-sounding voice messages on demand.",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nWraps papla.media TTS and sends results as Telegram voice notes without autoplay. Natural-sounding voice messages on demand.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://papla.media/docs)",
+    "category": "communication",
+    "tags": [
+      "voice",
+      "tts",
+      "telegram",
+      "accessibility"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://papla.media/docs",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "codexmonitor-cli",
+    "title": "CodexMonitor CLI",
+    "description": "Homebrew-installed helper to list, inspect, and watch local OpenAI Codex sessions from CLI and VS Code.",
+    "fullContent": "odrobnik shared their OpenClaw setup.\n\n## Overview\n\nHomebrew-installed helper to list, inspect, and watch local OpenAI Codex sessions from CLI and VS Code.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $0\n\n## Source\n\n[Original post](https://clawhub.com/odrobnik/codexmonitor)",
+    "category": "development",
+    "tags": [
+      "devtools",
+      "codex",
+      "monitoring",
+      "cli",
+      "vscode"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/odrobnik/codexmonitor",
+      "author": "odrobnik"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$0",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "bambu-3d-printer-control",
+    "title": "Bambu 3D Printer Control",
+    "description": "Control BambuLab 3D printers: status, jobs, camera, AMS filament, calibration. Smart home meets maker culture.",
+    "fullContent": "tobiasbischoff shared their OpenClaw setup.\n\n## Overview\n\nControl BambuLab 3D printers: status, jobs, camera, AMS filament, calibration. Smart home meets maker culture.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://clawhub.com/tobiasbischoff/bambu-cli)",
+    "category": "smart-home",
+    "tags": [
+      "hardware",
+      "3d-printing",
+      "bambulab",
+      "iot",
+      "maker"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/tobiasbischoff/bambu-cli",
+      "author": "tobiasbischoff"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "vienna-transport-wiener-linien",
+    "title": "Vienna Transport Wiener Linien",
+    "description": "Real-time departures, disruptions, elevator status, and routing for Vienna public transport via natural language.",
+    "fullContent": "hjanuschka shared their OpenClaw setup.\n\n## Overview\n\nReal-time departures, disruptions, elevator status, and routing for Vienna public transport via natural language.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://clawhub.com/hjanuschka/wienerlinien)",
+    "category": "productivity",
+    "tags": [
+      "travel",
+      "transport",
+      "vienna",
+      "real-time"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/hjanuschka/wienerlinien",
+      "author": "hjanuschka"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "parentpay-school-meals-booking",
+    "title": "ParentPay School Meals Booking",
+    "description": "Automated UK school meal booking via ParentPay using mouse coordinates for reliable table cell clicking.",
+    "fullContent": "George5562 shared their OpenClaw setup.\n\n## Overview\n\nAutomated UK school meal booking via ParentPay using mouse coordinates for reliable table cell clicking.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#parentpay)",
+    "category": "productivity",
+    "tags": [
+      "automation",
+      "browser-control",
+      "parenting",
+      "school"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#parentpay",
+      "author": "George5562"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "r2-upload-file-sharing",
+    "title": "R2 Upload File Sharing",
+    "description": "Upload to Cloudflare R2/S3 and generate presigned download links. Perfect for sharing files from remote OpenClaw instances.",
+    "fullContent": "julianengel shared their OpenClaw setup.\n\n## Overview\n\nUpload to Cloudflare R2/S3 and generate presigned download links. Perfect for sharing files from remote OpenClaw instances.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $0-5\n\n## Source\n\n[Original post](https://clawhub.com/skills/r2-upload)",
+    "category": "development",
+    "tags": [
+      "files",
+      "cloudflare-r2",
+      "s3",
+      "presigned-urls"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/skills/r2-upload",
+      "author": "julianengel"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$0-5",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "ios-app-built-via-telegram",
+    "title": "iOS App Built via Telegram",
+    "description": "Complete iOS app with maps and voice recording, deployed to TestFlight entirely via Telegram chat. Never opened Xcode.",
+    "fullContent": "coard shared their OpenClaw setup.\n\n## Overview\n\nComplete iOS app with maps and voice recording, deployed to TestFlight entirely via Telegram chat. Never opened Xcode.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $20-40\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#ios-app)",
+    "category": "development",
+    "tags": [
+      "ios",
+      "xcode",
+      "testflight",
+      "telegram",
+      "mobile-dev"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#ios-app",
+      "author": "coard"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$20-40",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 9,
+    "relatedSkills": [],
+    "relatedRepos": [],
+    "revenueEstimate": "App Store revenue potential"
+  },
+  {
+    "id": "oura-ring-health-assistant",
+    "title": "Oura Ring Health Assistant",
+    "description": "Personal AI health assistant integrating Oura ring biometrics with calendar, appointments, and gym schedule.",
+    "fullContent": "AS shared their OpenClaw setup.\n\n## Overview\n\nPersonal AI health assistant integrating Oura ring biometrics with calendar, appointments, and gym schedule.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#oura)",
+    "category": "health",
+    "tags": [
+      "health",
+      "oura-ring",
+      "wearable",
+      "calendar",
+      "fitness"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#oura",
+      "author": "AS"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "multi-agent-orchestrator-14-plus-agents",
+    "title": "Multi-Agent Orchestrator 14 Plus Agents",
+    "description": "14+ specialized agents under one gateway with Opus orchestrator. Comprehensive write-up on model selection, sandboxing, and delegation.",
+    "fullContent": "adam91holt shared their OpenClaw setup.\n\n## Overview\n\n14+ specialized agents under one gateway with Opus orchestrator. Comprehensive write-up on model selection, sandboxing, and delegation.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $100+\n\n## Source\n\n[Original post](https://github.com/adam91holt/orchestrated-ai-articles)",
+    "category": "development",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "architecture",
+      "enterprise"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/adam91holt/orchestrated-ai-articles",
+      "author": "adam91holt"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$100+",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 9,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "adam91holt/orchestrated-ai-articles",
+      "adam91holt/clawdspace"
+    ]
+  },
+  {
+    "id": "linear-cli-for-agents",
+    "title": "Linear CLI for Agents",
+    "description": "CLI for Linear that integrates with agentic workflows. Manage issues, projects, and sprints from the terminal.",
+    "fullContent": "NessZerra shared their OpenClaw setup.\n\n## Overview\n\nCLI for Linear that integrates with agentic workflows. Manage issues, projects, and sprints from the terminal.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/Finesssee/linear-cli)",
+    "category": "development",
+    "tags": [
+      "devtools",
+      "linear",
+      "cli",
+      "project-management"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/Finesssee/linear-cli",
+      "author": "NessZerra"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "Finesssee/linear-cli"
+    ]
+  },
+  {
+    "id": "beeper-cli-unified-messaging",
+    "title": "Beeper CLI Unified Messaging",
+    "description": "Read, send, archive messages via Beeper Desktop. Manage iMessage, WhatsApp, Telegram and more from one agent.",
+    "fullContent": "jules shared their OpenClaw setup.\n\n## Overview\n\nRead, send, archive messages via Beeper Desktop. Manage iMessage, WhatsApp, Telegram and more from one agent.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/blqke/beepcli)",
+    "category": "communication",
+    "tags": [
+      "messaging",
+      "beeper",
+      "multi-platform",
+      "imessage",
+      "whatsapp"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/blqke/beepcli",
+      "author": "jules"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "blqke/beepcli"
+    ]
+  },
+  {
+    "id": "winix-air-purifier-control",
+    "title": "Winix Air Purifier Control",
+    "description": "Claude Code discovers purifier controls, OpenClaw takes over daily air quality management. Smart home health automation.",
+    "fullContent": "antonplex (@antonplex) shared their OpenClaw setup.\n\n## Overview\n\nClaude Code discovers purifier controls, OpenClaw takes over daily air quality management. Smart home health automation.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/antonplex/status/2010518442471006253)",
+    "category": "smart-home",
+    "tags": [
+      "automation",
+      "hardware",
+      "air-quality",
+      "health",
+      "iot"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/antonplex/status/2010518442471006253",
+      "author": "antonplex",
+      "authorHandle": "@antonplex"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "pretty-sky-camera-shots",
+    "title": "Pretty Sky Camera Shots",
+    "description": "Roof camera triggers OpenClaw to snap photos when the sky looks beautiful. AI-curated photography collection.",
+    "fullContent": "signalgaining (@signalgaining) shared their OpenClaw setup.\n\n## Overview\n\nRoof camera triggers OpenClaw to snap photos when the sky looks beautiful. AI-curated photography collection.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/signalgaining/status/2010523120604746151)",
+    "category": "creative",
+    "tags": [
+      "camera",
+      "automation",
+      "photography",
+      "beauty-detection"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/signalgaining/status/2010523120604746151",
+      "author": "signalgaining",
+      "authorHandle": "@signalgaining"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "visual-morning-briefing-scene",
+    "title": "Visual Morning Briefing Scene",
+    "description": "Scheduled prompt generates a scene image each morning: weather, tasks, date, favorite quote via an OpenClaw persona.",
+    "fullContent": "buddyhadry (@buddyhadry) shared their OpenClaw setup.\n\n## Overview\n\nScheduled prompt generates a scene image each morning: weather, tasks, date, favorite quote via an OpenClaw persona.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/buddyhadry/status/2010005331925954739)",
+    "category": "creative",
+    "tags": [
+      "automation",
+      "image-generation",
+      "briefing",
+      "telegram"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/buddyhadry/status/2010005331925954739",
+      "author": "buddyhadry",
+      "authorHandle": "@buddyhadry"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "padel-court-booking-cli",
+    "title": "Padel Court Booking CLI",
+    "description": "Playtomic availability checker and booking CLI. Never miss an open padel court with automated slot monitoring.",
+    "fullContent": "joshp123 shared their OpenClaw setup.\n\n## Overview\n\nPlaytomic availability checker and booking CLI. Never miss an open padel court with automated slot monitoring.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $5\n\n## Source\n\n[Original post](https://github.com/joshp123/padel-cli)",
+    "category": "productivity",
+    "tags": [
+      "automation",
+      "booking",
+      "sports",
+      "padel",
+      "cli"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/joshp123/padel-cli",
+      "author": "joshp123"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$5",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "joshp123/padel-cli"
+    ]
+  },
+  {
+    "id": "accounting-intake-automation",
+    "title": "Accounting Intake Automation",
+    "description": "Collects PDFs from email, categorizes documents, prepares packages for tax consultant. Monthly accounting on autopilot.",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nCollects PDFs from email, categorizes documents, prepares packages for tax consultant. Monthly accounting on autopilot.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#accounting)",
+    "category": "freelancer",
+    "tags": [
+      "automation",
+      "accounting",
+      "email",
+      "pdf",
+      "tax"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#accounting",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "couch-potato-dev-mode",
+    "title": "Couch Potato Dev Mode",
+    "description": "Rebuilt entire personal site via Telegram watching Netflix. Notion to Astro migration, 18 posts, DNS to Cloudflare. Never opened laptop.",
+    "fullContent": "davekiss shared their OpenClaw setup.\n\n## Overview\n\nRebuilt entire personal site via Telegram watching Netflix. Notion to Astro migration, 18 posts, DNS to Cloudflare. Never opened laptop.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://davekiss.com)",
+    "category": "development",
+    "tags": [
+      "telegram",
+      "website",
+      "migration",
+      "astro",
+      "notion"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://davekiss.com",
+      "author": "davekiss"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "job-search-agent",
+    "title": "Job Search Agent",
+    "description": "Searches job listings via JSearch API, matches against CV keywords, returns relevant opportunities. Built in 30 minutes.",
+    "fullContent": "attol8 shared their OpenClaw setup.\n\n## Overview\n\nSearches job listings via JSearch API, matches against CV keywords, returns relevant opportunities. Built in 30 minutes.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $5-15\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#job-search)",
+    "category": "productivity",
+    "tags": [
+      "automation",
+      "job-search",
+      "api",
+      "career"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#job-search",
+      "author": "attol8"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$5-15",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "todoist-skill-via-telegram",
+    "title": "Todoist Skill via Telegram",
+    "description": "Automated Todoist task management with skill generated directly in Telegram chat. Natural language task control.",
+    "fullContent": "iamsubhrajyoti (@iamsubhrajyoti) shared their OpenClaw setup.\n\n## Overview\n\nAutomated Todoist task management with skill generated directly in Telegram chat. Natural language task control.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/iamsubhrajyoti/status/2009949389884920153)",
+    "category": "productivity",
+    "tags": [
+      "automation",
+      "todoist",
+      "telegram",
+      "task-management"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/iamsubhrajyoti/status/2009949389884920153",
+      "author": "iamsubhrajyoti",
+      "authorHandle": "@iamsubhrajyoti"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "tradingview-chart-analysis",
+    "title": "TradingView Chart Analysis",
+    "description": "Logs into TradingView via browser automation, screenshots charts, performs technical analysis. No API needed.",
+    "fullContent": "bheem1798 shared their OpenClaw setup.\n\n## Overview\n\nLogs into TradingView via browser automation, screenshots charts, performs technical analysis. No API needed.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#tradingview)",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "trading",
+      "browser-automation",
+      "technical-analysis"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#tradingview",
+      "author": "bheem1798"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "slack-auto-support-agent",
+    "title": "Slack Auto-Support Agent",
+    "description": "Watches Slack channel, responds helpfully, forwards to Telegram. Autonomously fixed a production bug without being asked.",
+    "fullContent": "henrymascot shared their OpenClaw setup.\n\n## Overview\n\nWatches Slack channel, responds helpfully, forwards to Telegram. Autonomously fixed a production bug without being asked.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $30-50\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#slack-support)",
+    "category": "development",
+    "tags": [
+      "slack",
+      "automation",
+      "support",
+      "autonomous",
+      "bug-fixing"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#slack-support",
+      "author": "henrymascot"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$30-50",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 9,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "chinese-learning-engine-xuezh",
+    "title": "Chinese Learning Engine xuezh",
+    "description": "Chinese language learning with pronunciation feedback and study flows. Practice speaking, reading, and writing with AI guidance.",
+    "fullContent": "joshp123 shared their OpenClaw setup.\n\n## Overview\n\nChinese language learning with pronunciation feedback and study flows. Practice speaking, reading, and writing with AI guidance.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/joshp123/xuezh)",
+    "category": "research",
+    "tags": [
+      "learning",
+      "chinese",
+      "voice",
+      "pronunciation",
+      "education"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/joshp123/xuezh",
+      "author": "joshp123"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "joshp123/xuezh"
+    ]
+  },
+  {
+    "id": "whatsapp-memory-vault",
+    "title": "WhatsApp Memory Vault",
+    "description": "Ingests WhatsApp exports, transcribes 1000+ voice notes, cross-checks with git logs, outputs linked markdown reports.",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nIngests WhatsApp exports, transcribes 1000+ voice notes, cross-checks with git logs, outputs linked markdown reports.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#whatsapp-vault)",
+    "category": "research",
+    "tags": [
+      "memory",
+      "whatsapp",
+      "transcription",
+      "knowledge-base"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#whatsapp-vault",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "karakeep-semantic-search",
+    "title": "Karakeep Semantic Search",
+    "description": "Vector-based semantic search for Karakeep bookmarks using Qdrant and OpenAI/Ollama embeddings. Search by meaning.",
+    "fullContent": "jamesbrooksco shared their OpenClaw setup.\n\n## Overview\n\nVector-based semantic search for Karakeep bookmarks using Qdrant and OpenAI/Ollama embeddings. Search by meaning.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/jamesbrooksco/karakeep-semantic-search)",
+    "category": "research",
+    "tags": [
+      "search",
+      "vector-search",
+      "bookmarks",
+      "qdrant",
+      "embeddings"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/jamesbrooksco/karakeep-semantic-search",
+      "author": "jamesbrooksco"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "jamesbrooksco/karakeep-semantic-search"
+    ]
+  },
+  {
+    "id": "inside-out-2-memory-system",
+    "title": "Inside-Out-2 Memory System",
+    "description": "Turns session files into memories, then beliefs, building an evolving AI self-model. Inspired by Inside Out 2.",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nTurns session files into memories, then beliefs, building an evolving AI self-model. Inspired by Inside Out 2.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $20-40\n\n## Source\n\n[Original post](https://docs.openclaw.ai/start/showcase#inside-out)",
+    "category": "research",
+    "tags": [
+      "memory",
+      "beliefs",
+      "self-model",
+      "cognition",
+      "experimental"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "discord",
+      "url": "https://docs.openclaw.ai/start/showcase#inside-out",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$20-40",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "clawdia-voice-phone-bridge",
+    "title": "Clawdia Voice Phone Bridge",
+    "description": "Vapi voice assistant connected to OpenClaw via HTTP bridge. Near real-time phone calls with your AI agent.",
+    "fullContent": "alejandroOPI shared their OpenClaw setup.\n\n## Overview\n\nVapi voice assistant connected to OpenClaw via HTTP bridge. Near real-time phone calls with your AI agent.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $20-50\n\n## Source\n\n[Original post](https://github.com/alejandroOPI/clawdia-bridge)",
+    "category": "communication",
+    "tags": [
+      "voice",
+      "phone",
+      "vapi",
+      "real-time",
+      "calls"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/alejandroOPI/clawdia-bridge",
+      "author": "alejandroOPI"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$20-50",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "alejandroOPI/clawdia-bridge"
+    ]
+  },
+  {
+    "id": "openrouter-transcription-skill",
+    "title": "OpenRouter Transcription Skill",
+    "description": "Multi-lingual audio transcription via OpenRouter using Gemini and other models. One-click ClawHub install.",
+    "fullContent": "obviyus shared their OpenClaw setup.\n\n## Overview\n\nMulti-lingual audio transcription via OpenRouter using Gemini and other models. One-click ClawHub install.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://clawhub.com/obviyus/openrouter-transcribe)",
+    "category": "communication",
+    "tags": [
+      "transcription",
+      "multilingual",
+      "openrouter",
+      "speech-to-text"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/obviyus/openrouter-transcribe",
+      "author": "obviyus"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "home-assistant-add-on",
+    "title": "Home Assistant Add-on",
+    "description": "OpenClaw gateway running on Home Assistant OS with SSH tunnel support and persistent state.",
+    "fullContent": "ngutman shared their OpenClaw setup.\n\n## Overview\n\nOpenClaw gateway running on Home Assistant OS with SSH tunnel support and persistent state.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/ngutman/openclaw-ha-addon)",
+    "category": "smart-home",
+    "tags": [
+      "homeassistant",
+      "add-on",
+      "docker",
+      "raspberry-pi"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/ngutman/openclaw-ha-addon",
+      "author": "ngutman"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "ngutman/openclaw-ha-addon"
+    ]
+  },
+  {
+    "id": "home-assistant-natural-language-skill",
+    "title": "Home Assistant Natural Language Skill",
+    "description": "Control Home Assistant devices via natural language: lights, thermostats, cameras, locks through conversational commands.",
+    "fullContent": "ClawHub shared their OpenClaw setup.\n\n## Overview\n\nControl Home Assistant devices via natural language: lights, thermostats, cameras, locks through conversational commands.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://clawhub.com/skills/homeassistant)",
+    "category": "smart-home",
+    "tags": [
+      "homeassistant",
+      "natural-language",
+      "smart-home",
+      "iot"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/skills/homeassistant",
+      "author": "ClawHub"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "nix-packaging-for-openclaw",
+    "title": "Nix Packaging for OpenClaw",
+    "description": "Batteries-included nixified OpenClaw configuration for reproducible, declarative deployments.",
+    "fullContent": "openclaw shared their OpenClaw setup.\n\n## Overview\n\nBatteries-included nixified OpenClaw configuration for reproducible, declarative deployments.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/openclaw/nix-openclaw)",
+    "category": "development",
+    "tags": [
+      "nix",
+      "nixos",
+      "packaging",
+      "deployment",
+      "reproducible"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/openclaw/nix-openclaw",
+      "author": "openclaw"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "openclaw/nix-openclaw"
+    ]
+  },
+  {
+    "id": "caldav-calendar-integration",
+    "title": "CalDAV Calendar Integration",
+    "description": "Self-hosted calendar skill using khal/vdirsyncer. CalDAV for Nextcloud, Radicale, and other calendar servers.",
+    "fullContent": "ClawHub shared their OpenClaw setup.\n\n## Overview\n\nSelf-hosted calendar skill using khal/vdirsyncer. CalDAV for Nextcloud, Radicale, and other calendar servers.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://clawhub.com/skills/caldav-calendar)",
+    "category": "productivity",
+    "tags": [
+      "calendar",
+      "caldav",
+      "self-hosted",
+      "nextcloud"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawhub.com/skills/caldav-calendar",
+      "author": "ClawHub"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "gohome-nix-automation",
+    "title": "GoHome Nix Automation",
+    "description": "Nix-native home automation with OpenClaw interface and Grafana dashboards for monitoring your entire home.",
+    "fullContent": "joshp123 shared their OpenClaw setup.\n\n## Overview\n\nNix-native home automation with OpenClaw interface and Grafana dashboards for monitoring your entire home.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/joshp123/gohome)",
+    "category": "smart-home",
+    "tags": [
+      "home-automation",
+      "nix",
+      "grafana",
+      "monitoring"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/joshp123/gohome",
+      "author": "joshp123"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "joshp123/gohome"
+    ]
+  },
+  {
+    "id": "roborock-vacuum-control",
+    "title": "Roborock Vacuum Control",
+    "description": "Control Roborock robot vacuum through natural conversation. Cleaning zones, schedules, and status.",
+    "fullContent": "joshp123 shared their OpenClaw setup.\n\n## Overview\n\nControl Roborock robot vacuum through natural conversation. Cleaning zones, schedules, and status.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://github.com/joshp123/gohome/tree/main/plugins/roborock)",
+    "category": "smart-home",
+    "tags": [
+      "vacuum",
+      "roborock",
+      "iot",
+      "cleaning"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/joshp123/gohome/tree/main/plugins/roborock",
+      "author": "joshp123"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": [
+      "joshp123/gohome"
+    ]
+  },
+  {
+    "id": "starswap-astronomy-marketplace",
+    "title": "StarSwap Astronomy Marketplace",
+    "description": "Full astronomy gear marketplace built with the OpenClaw ecosystem. Buy and sell telescopes and accessories.",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nFull astronomy gear marketplace built with the OpenClaw ecosystem. Buy and sell telescopes and accessories.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $20-50\n\n## Source\n\n[Original post](https://star-swap.com/)",
+    "category": "wild",
+    "tags": [
+      "marketplace",
+      "astronomy",
+      "e-commerce",
+      "community"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://star-swap.com/",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$20-50",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "inboxzeroautomation",
+    "title": "Inbox‑Zero‑Automation",
+    "description": "OpenClaw räumt große Posteingänge auf, kündigt Newsletter, kategorisiert nach Dringlichkeit und erstellt Antwort‑Entwürfe, oft ausgelöst per WhatsApp/Telegram. [latenode]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nOpenClaw räumt große Posteingänge auf, kündigt Newsletter, kategorisiert nach Dringlichkeit und erstellt Antwort‑Entwürfe, oft ausgelöst per WhatsApp/Telegram. [latenode]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://latenode.com/blog/ai/ai-agents/popular-openclaw-use-cases)",
+    "category": "content-creation",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://latenode.com/blog/ai/ai-agents/popular-openclaw-use-cases",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "multisteptask-report-email",
+    "title": "Multi‑Step‑Task „Report & E‑Mail“",
+    "description": "Führt mehrstufige Tasks aus („Erstelle einen Report und maile ihn dem Team“), inkl. Zustandsverwaltung zwischen den Schritten. [tencentcloud]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nFührt mehrstufige Tasks aus („Erstelle einen Report und maile ihn dem Team“), inkl. Zustandsverwaltung zwischen den Schritten. [tencentcloud]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.tencentcloud.com/techpedia/136803)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://www.tencentcloud.com/techpedia/136803",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "multichannelchatassistant",
+    "title": "Multi‑Channel‑Chat‑Assistant",
+    "description": "Ein Assistent für WhatsApp, Telegram, Discord, Slack, Google Chat, Teams oder Twitch als einheitliche Schnittstelle. [tryopenclaw]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nEin Assistent für WhatsApp, Telegram, Discord, Slack, Google Chat, Teams oder Twitch als einheitliche Schnittstelle. [tryopenclaw]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://tryopenclaw.site)",
+    "category": "communication",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://tryopenclaw.site",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "persnlicher-wissensgraph-49k-facts",
+    "title": "Persönlicher Wissensgraph (49k Facts)",
+    "description": "Extrahiert 49.079 atomare Fakten und 57 Entitäten aus einem ChatGPT‑Export in einen persönlichen Wissensgraphen (Wikibase). [clawdocs]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nExtrahiert 49.079 atomare Fakten und 57 Entitäten aus einem ChatGPT‑Export in einen persönlichen Wissensgraphen (Wikibase). [clawdocs]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](http://clawdocs.org/guides/use-cases/)",
+    "category": "communication",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "http://clawdocs.org/guides/use-cases/",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "rssfeed-todoistprojekte",
+    "title": "RSS‑Feed → Todoist‑Projekte",
+    "description": "Richtet Automation ein, die RSS‑Feeds überwacht und bei neuen Ausgaben automatisch Todoist‑Projekte erstellt. [openclaw-ai]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nRichtet Automation ein, die RSS‑Feeds überwacht und bei neuen Ausgaben automatisch Todoist‑Projekte erstellt. [openclaw-ai]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://openclaw-ai.online/usage/)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://openclaw-ai.online/usage/",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "zweiter-kopf-fr-notizen-ideen",
+    "title": "„Zweiter Kopf“ für Notizen & Ideen",
+    "description": "Aggregiert Mails, Notizen, Meeting‑Zusammenfassungen und Ideen zu strukturierten Summaries, Wochenreflexionen und Aktionsplänen („Second Brain“). [youtube]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nAggregiert Mails, Notizen, Meeting‑Zusammenfassungen und Ideen zu strukturierten Summaries, Wochenreflexionen und Aktionsplänen („Second Brain“). [youtube]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.youtube.com/watch?v=lGTGtKYmWUU)",
+    "category": "content-creation",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=lGTGtKYmWUU",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "persnlicher-kalenderassistent-polly",
+    "title": "Persönlicher Kalender‑Assistent „Polly“",
+    "description": "Assistent bekommt Bestätigungs‑Mails weitergeleitet, extrahiert Termin‑Details und schlägt z.B. Pufferzeiten vor. [chatprd]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nAssistent bekommt Bestätigungs‑Mails weitergeleitet, extrahiert Termin‑Details und schlägt z.B. Pufferzeiten vor. [chatprd]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.chatprd.ai/how-i-ai/24-hours-with-clawdbot-moltbot-3-workflows-for-ai-agent)",
+    "category": "communication",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://www.chatprd.ai/how-i-ai/24-hours-with-clawdbot-moltbot-3-workflows-for-ai-agent",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-17",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
   }
 ]
