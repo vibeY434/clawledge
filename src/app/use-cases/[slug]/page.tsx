@@ -17,12 +17,18 @@ export async function generateMetadata({
   const useCase = getUseCaseBySlug(slug);
   if (!useCase) return {};
 
+  const url = `${SITE_CONFIG.url}/use-cases/${slug}`;
+
   return {
     title: useCase.title,
     description: useCase.description,
+    alternates: {
+      canonical: url,
+    },
     openGraph: {
       title: useCase.title,
       description: useCase.description,
+      url,
       type: "article",
       publishedTime: useCase.dateAdded,
     },

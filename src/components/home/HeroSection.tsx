@@ -23,8 +23,9 @@ export function HeroSection() {
         </h1>
 
         <p className="mt-6 text-lg sm:text-xl text-foreground-secondary max-w-2xl mx-auto leading-relaxed">
-          Honest use cases, real cost data, and the full ecosystem of skills,
-          repos, and tools. No hype — just what actually works.
+          Discover what people build with OpenClaw (formerly Clawdbot). Honest
+          use cases, real cost data, and the full ecosystem. No hype — just
+          what works.
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">

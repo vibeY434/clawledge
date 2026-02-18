@@ -51,8 +51,8 @@ export default function SubmitPage() {
         Submit a Use Case
       </h1>
       <p className="text-foreground-secondary mb-8 leading-relaxed">
-        Got a cool OpenClaw or Clawdbot setup? Share it with the community and
-        get featured on Clawledge.
+        Got a cool OpenClaw setup? Share it with the community and get featured
+        on Clawledge.
       </p>
 
       {/* Dual CTA */}

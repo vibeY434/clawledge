@@ -33,9 +33,13 @@ export const metadata: Metadata = {
     "openclaw tutorial",
     "moltbot",
   ],
+  alternates: {
+    canonical: SITE_CONFIG.url,
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
+    url: SITE_CONFIG.url,
     siteName: SITE_CONFIG.name,
     title: SITE_CONFIG.name,
     description: SITE_CONFIG.description,
