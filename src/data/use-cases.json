@@ -9996,5 +9996,203 @@
     "impactScore": 5,
     "relatedSkills": [],
     "relatedRepos": []
+  },
+  {
+    "id": "daily-content-marketing-automation",
+    "title": "Daily Content Marketing Automation — Trend Scanning + Drafts",
+    "description": "An agent wakes up at 7am, scans X for trending marketing and AI topics, analyzes engagement patterns, generates content drafts, and closes the feedback loop 24h later. Saves ~10 hours/week.",
+    "fullContent": "One of the cleanest content creation use cases shared publicly: @VibeMarketer_ built a fully autonomous daily content pipeline using OpenClaw.\n\n## What It Does\n- Wakes up at 7am via cron job\n- Scans X for trending marketing and AI topics\n- Analyzes engagement patterns from previous posts\n- Generates content drafts based on what's trending\n- Reviews post performance 24h later to improve pattern recognition over time\n\n## The Feedback Loop\nMost content automation stops at scheduling. This setup closes the loop: after 24 hours, the agent evaluates engagement data and updates its pattern model. Over time it started catching trends the human missed entirely.\n\n## Results\n- ~10 hours/week saved on content research and drafting\n- Improved trend detection vs. manual monitoring\n- Human stays in control of final publishing decisions\n\n## Key Insight\nThe handoff model works: agent does research + pattern matching, human applies judgment and edits. Quality stays high because no step is fully automated without review.",
+    "category": "content-creation",
+    "tags": [
+      "content",
+      "automation",
+      "x-twitter",
+      "cron",
+      "marketing",
+      "trend-research"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1 weekend",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/VibeMarketer_/status/2022793222011912443",
+      "author": "VibeMarketer_",
+      "authorHandle": "@VibeMarketer_",
+      "date": "2026-02-15",
+      "quote": "it wakes up at 7am, scans x for trending marketing and AI topics, analyzes engagement patterns"
+    },
+    "requirements": [
+      "Always-on machine or VPS",
+      "Claude API Key",
+      "X API access"
+    ],
+    "monthlyApiCost": "$20-60",
+    "monetizable": true,
+    "revenueEstimate": "$600-1,200/month per client",
+    "verified": false,
+    "dateAdded": "2026-02-19",
+    "featured": false,
+    "impactScore": 7,
+    "relatedSkills": [
+      "x-research",
+      "postfast"
+    ],
+    "relatedRepos": []
+  },
+  {
+    "id": "real-estate-research-team-telegram",
+    "title": "Real Estate Research Team Spawned via Telegram",
+    "description": "A non-technical wife texts her own agent to spawn a real estate research team. The agent runs Zillow property analysis, zoning law checks, and more — she only interacts via chat.",
+    "fullContent": "A standout 'normie use case' shared by @mds: he built a multi-agent real estate research team his wife uses daily — with zero technical knowledge required.\n\n## Setup\n- Wife texts her own OpenClaw agent via Telegram\n- Agent spawns a full research team on demand\n- No setup, no configuration needed from the end user\n\n## Research Team Skills\n- **Zillow Property Analyzer** — pulls listing data, price history, comparable sales\n- **Zoning Laws Checker** — looks up local zoning regulations for target areas\n- Additional custom skills for neighborhood data\n\n## Technical Foundation\n- Cron jobs for scheduled checks\n- Heartbeat for always-on availability\n- Custom skill suite built by the technical partner\n- Single Telegram interface for the non-tech user\n\n## Why This Matters\nThis is the \"normie\" benchmark: if a non-technical person can use OpenClaw productively via text alone, the setup is solid. Proof that agent infrastructure can abstract away all complexity.",
+    "category": "research",
+    "tags": [
+      "real-estate",
+      "multi-agent",
+      "telegram",
+      "research",
+      "non-technical",
+      "family"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 weekends",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/mds/status/2021972042132722043",
+      "author": "mds",
+      "authorHandle": "@mds",
+      "date": "2026-02-13",
+      "quote": "A (normie) use case for @openclaw — I setup a workspace so my wife can text her own agent to spawn a real estate research team."
+    },
+    "requirements": [
+      "Always-on machine",
+      "Claude API Key",
+      "Zillow access (unofficial API or browser)",
+      "Telegram bot"
+    ],
+    "monthlyApiCost": "$15-40",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-19",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "financial-transaction-notifications-telegram",
+    "title": "Financial Transaction Notifications via Telegram",
+    "description": "A custom skill that automatically sends Telegram notifications for every financial transaction. Built by a full-time parent to stay on top of finances without manual checking.",
+    "fullContent": "Shared as part of a broader automation setup by @kimochi_desu: a custom skill that monitors financial accounts and fires Telegram notifications for every transaction.\n\n## What It Does\n- Monitors connected financial accounts\n- Fires instant Telegram notifications on new transactions\n- No manual checking required\n- Built alongside a job application bot as part of a personal automation stack\n\n## Context\nBuilt by a full-time parent who needed maximum automation with minimal effort. The financial notification skill runs alongside job application automation — both designed to reduce daily manual tasks while caring for a toddler.\n\n## Why Finance Notifications via Agent?\n- Native bank apps have delayed notifications\n- Agent can enrich notifications (category, running balance, budget alerts)\n- Extensible: easy to add rules (\"alert me if >$200\", \"flag subscriptions\")\n\n## Beginner-Friendly\nThis is one of the lower-complexity finance use cases — no trading logic, no API risk. Just monitoring + notification.",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "notifications",
+      "telegram",
+      "banking",
+      "automation",
+      "beginner"
+    ],
+    "difficulty": "beginner",
+    "estimatedSetupTime": "2-4 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/kimochi_desu/status/2022858209174929741",
+      "author": "kimochi_desu",
+      "authorHandle": "@kimochi_desu",
+      "date": "2026-02-15",
+      "quote": "Another custom skill I created is auto notifications of all my financial transactions in telegram"
+    },
+    "requirements": [
+      "Claude API Key",
+      "Telegram bot",
+      "Bank/account data access (API or scraping)"
+    ],
+    "monthlyApiCost": "$5-15",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-19",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "automated-job-application-bot",
+    "title": "Automated Job Application Bot for Competitive Tech Markets",
+    "description": "A skill that auto-applies for jobs on behalf of the user. Built for a full-time parent managing childcare — saves hours weekly in a highly competitive tech job market.",
+    "fullContent": "Built by @kimochi_desu: an autonomous job application bot that runs while the user is busy with childcare.\n\n## Use Case Context\nFull-time parent with a toddler, job hunting in a competitive tech market. Manual applications are time-intensive; the agent handles the repetitive parts autonomously.\n\n## What It Does\n- Scans job boards for matching positions\n- Auto-fills and submits applications\n- Tracks applications and status\n- Filters roles by criteria (salary, location, stack)\n\n## Results\n- Described as saving \"a tremendous amount of time\"\n- Handles volume that would be impossible manually while caregiving\n\n## Important Notes\n- Some job platforms prohibit automated applications (check ToS)\n- Works best for platforms with public listing APIs or scraping-friendly structures\n- Human review before final submission is recommended for senior roles\n\n## Why OpenClaw vs. Other Tools?\nThe always-on agent architecture means applications go out at optimal times (early morning when listings are fresh) without manual scheduling.",
+    "category": "productivity",
+    "tags": [
+      "jobs",
+      "automation",
+      "productivity",
+      "career",
+      "scraping"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1 weekend",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/kimochi_desu/status/2022858209174929741",
+      "author": "kimochi_desu",
+      "authorHandle": "@kimochi_desu",
+      "date": "2026-02-15",
+      "quote": "I created a skill that auto applies job for me, which is ultra competitive in tech atm. I'm also full time taking care of my toddler, so this saves me tremendous amount of time."
+    },
+    "requirements": [
+      "Always-on machine",
+      "Claude API Key",
+      "Job board access",
+      "Resume in structured format"
+    ],
+    "monthlyApiCost": "$10-25",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-19",
+    "featured": false,
+    "impactScore": 6,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "legal-ops-revenue-dashboard-client-health",
+    "title": "Legal Ops Intelligence — Slack Monitoring, Revenue Dashboards & Client Health Scoring",
+    "description": "An autonomous agent for a legal tech company handling Slack intelligence, revenue dashboards, and client health scoring. Runs 24/7 without lawyer involvement.",
+    "fullContent": "Shared by @Zenagain26 in response to @clawledge: a fully autonomous legal operations intelligence stack built on OpenClaw.\n\n## What It Covers\n\n### Slack Intelligence\n- Monitors internal Slack channels for signals\n- Flags client mentions, escalations, and time-sensitive items\n- Summarizes daily activity for legal ops team\n\n### Revenue Dashboards\n- Tracks billing, matter status, and revenue pipeline\n- Autonomous updates without manual data entry\n- Surfaces anomalies and trends\n\n### Client Health Scoring\n- Monitors engagement signals per client\n- Generates health scores to flag churn risk early\n- Alerts team to at-risk accounts\n\n## Impact\n\"Lawyers are sleeping on this\" — the agent handles intelligence work that previously required dedicated ops staff.\n\n## Industry Context\nLegal tech has historically been slow to adopt automation. OpenClaw's Slack + API integration capabilities make this accessible without custom enterprise software.\n\n## Monetizable Potential\nThis is a strong B2B use case: any legal tech consultancy could sell this as a managed service at $500-2,000/month per firm.",
+    "category": "finance",
+    "tags": [
+      "legal",
+      "slack",
+      "dashboard",
+      "revenue",
+      "client-health",
+      "b2b",
+      "autonomous"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "2-4 weekends",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/Zenagain26/status/2022687603833684320",
+      "author": "Zenagain26",
+      "authorHandle": "@Zenagain26",
+      "date": "2026-02-15",
+      "quote": "legal ops. I run monitoring for a legal tech company... slack intelligence, revenue dashboards, client health scoring, all autonomous. lawyers are sleeping on this."
+    },
+    "requirements": [
+      "Always-on server",
+      "Claude API Key",
+      "Slack workspace access",
+      "CRM/billing system API"
+    ],
+    "monthlyApiCost": "$50-150",
+    "monetizable": true,
+    "revenueEstimate": "$500-2,000/month per client",
+    "verified": false,
+    "dateAdded": "2026-02-19",
+    "featured": false,
+    "impactScore": 8,
+    "relatedSkills": [],
+    "relatedRepos": []
   }
 ]
