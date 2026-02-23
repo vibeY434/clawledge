@@ -11,7 +11,9 @@
     "add-cases": "node scripts/add-cases.mjs",
     "verify": "node scripts/verify-urls.mjs",
     "stats": "node scripts/stats.mjs",
-    "weekly": "node scripts/add-cases.mjs && npm run build && npx vercel deploy --prod --yes"
+    "weekly": "node scripts/add-cases.mjs && npm run build && npx vercel deploy --prod --yes",
+    "sync:openclaw-changelog": "node scripts/sync-openclaw-changelog.mjs",
+    "import:vps": "bash scripts/run-vps-import.sh"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
