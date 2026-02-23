@@ -10194,5 +10194,977 @@
     "impactScore": 8,
     "relatedSkills": [],
     "relatedRepos": []
+  },
+  {
+    "id": "wait-99-of-claude-users-dont-know-this-feature-exists-youve-",
+    "title": "🚨WAIT: 99% OF CLAUDE USERS DON'T KNOW THIS FEATURE EXISTS.  You've been using Cl",
+    "description": "🚨WAIT: 99% OF CLAUDE USERS DON'T KNOW THIS FEATURE EXISTS.  You've been using Claude like a chatbot when it's actually a plugin-powered OS for work.  Here's what you've been missing :  Most people use Claude wrong.  Ask a question. Get an answer. Move on. But there's a hidden https://t.co/6EfTA2Lh3D",
+    "fullContent": "Kanika (@KanikaBK) shared their OpenClaw setup.\n\n## Overview\n\n🚨WAIT: 99% OF CLAUDE USERS DON'T KNOW THIS FEATURE EXISTS.  You've been using Claude like a chatbot when it's actually a plugin-powered OS for work.  Here's what you've been missing :  Most people use Claude wrong.  Ask a question. Get an answer. Move on. But there's a hidden https://t.co/6EfTA2Lh3D\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/KanikaBK/status/2024445620354957751)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/KanikaBK/status/2024445620354957751",
+      "author": "Kanika",
+      "authorHandle": "@KanikaBK",
+      "date": "2026-02-19"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "if-your-openclaw-starts-from-scratch-every-session-paste-thi",
+    "title": "If your Openclaw starts from scratch every session.  Paste this prompt once.  Th",
+    "description": "If your Openclaw starts from scratch every session.  Paste this prompt once.  The agent will:  • Decide what to remember • Write it to a file • Reads it back next time  Bookmark so you don't lose this. https://t.co/lMADCzao4f",
+    "fullContent": "zaimiri ✏️ (@zaimiri) shared their OpenClaw setup.\n\n## Overview\n\nIf your Openclaw starts from scratch every session.  Paste this prompt once.  The agent will:  • Decide what to remember • Write it to a file • Reads it back next time  Bookmark so you don't lose this. https://t.co/lMADCzao4f\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/zaimiri/status/2024443607152013510)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/zaimiri/status/2024443607152013510",
+      "author": "zaimiri ✏️",
+      "authorHandle": "@zaimiri",
+      "date": "2026-02-19"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "openclaw-minimax-25-obsidian-beast-at-1h-httpstconr5i8omn4t",
+    "title": "openclaw + minimax 2.5 + obsidian = beast at $1/h https://t.co/NR5I8oMN4T",
+    "description": "openclaw + minimax 2.5 + obsidian = beast at $1/h https://t.co/NR5I8oMN4T",
+    "fullContent": "4nzn (@paoloanzn) shared their OpenClaw setup.\n\n## Overview\n\nopenclaw + minimax 2.5 + obsidian = beast at $1/h https://t.co/NR5I8oMN4T\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/paoloanzn/status/2024248684385619992)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/paoloanzn/status/2024248684385619992",
+      "author": "4nzn",
+      "authorHandle": "@paoloanzn",
+      "date": "2026-02-18"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "if-you-run-openclaw-agents-bookmark-this-a-simple-memory-pro",
+    "title": "If you run OpenClaw agents, bookmark this.  A simple memory protocol turns your",
+    "description": "If you run OpenClaw agents, bookmark this.  A simple memory protocol turns your agent from stateless autocomplete into a compounding system.  Daily logs. Structured long-term memory. Documented decisions.  5 minutes to set up. Massive leverage over time. https://t.co/zrEr8YkvsL",
+    "fullContent": "Jayden ⛩️ (@thejayden) shared their OpenClaw setup.\n\n## Overview\n\nIf you run OpenClaw agents, bookmark this.  A simple memory protocol turns your agent from stateless autocomplete into a compounding system.  Daily logs. Structured long-term memory. Documented decisions.  5 minutes to set up. Massive leverage over time. https://t.co/zrEr8YkvsL\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/thejayden/status/2024199818256482592)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/thejayden/status/2024199818256482592",
+      "author": "Jayden ⛩️",
+      "authorHandle": "@thejayden",
+      "date": "2026-02-18"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "biggest-unlock-for-openclaw-ever-giving-it-a-mission-stateme",
+    "title": "Biggest unlock for OpenClaw ever:  Giving it a mission statement  You NEED to gi",
+    "description": "Biggest unlock for OpenClaw ever:  Giving it a mission statement  You NEED to give your OpenClaw a mission statement it puts at the top of your mission control  Now any time your agent is idle you can reverse prompt \"what is 1 task we can do to get closer to our mission https://t.co/RPoYdLs4Kj",
+    "fullContent": "Alex Finn (@AlexFinn) shared their OpenClaw setup.\n\n## Overview\n\nBiggest unlock for OpenClaw ever:  Giving it a mission statement  You NEED to give your OpenClaw a mission statement it puts at the top of your mission control  Now any time your agent is idle you can reverse prompt \"what is 1 task we can do to get closer to our mission https://t.co/RPoYdLs4Kj\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/AlexFinn/status/2024280496503710174)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/AlexFinn/status/2024280496503710174",
+      "author": "Alex Finn",
+      "authorHandle": "@AlexFinn",
+      "date": "2026-02-19"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "ive-spent-254-billion-tokens-perfecting-openclaw-the-use-cas",
+    "title": "I've spent 2.54 BILLION tokens perfecting OpenClaw.  The use cases I discovered",
+    "description": "I've spent 2.54 BILLION tokens perfecting OpenClaw.  The use cases I discovered have changed the way I live and work.  ...and now I'm sharing them with the world.  Here are 21 use cases I use daily:  0:00 Intro 0:50 What is OpenClaw? 1:35 MD Files 2:14 Memory System 3:55 CRM https://t.co/S5nDWEHUuk",
+    "fullContent": "Matthew Berman (@MatthewBerman) shared their OpenClaw setup.\n\n## Overview\n\nI've spent 2.54 BILLION tokens perfecting OpenClaw.  The use cases I discovered have changed the way I live and work.  ...and now I'm sharing them with the world.  Here are 21 use cases I use daily:  0:00 Intro 0:50 What is OpenClaw? 1:35 MD Files 2:14 Memory System 3:55 CRM https://t.co/S5nDWEHUuk\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/MatthewBerman/status/2023843493765157235)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/MatthewBerman/status/2023843493765157235",
+      "author": "Matthew Berman",
+      "authorHandle": "@MatthewBerman",
+      "date": "2026-02-17"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "pro-tip-unlock-the-biggest-update-for-your-claude-code-now-1",
+    "title": "PRO TIP: Unlock the biggest update for your Claude Code now:  1. Go to .claude/s",
+    "description": "PRO TIP: Unlock the biggest update for your Claude Code now:  1. Go to .claude/settings.json and add this: \"env\": {     \"ANTHROPIC_DEFAULT_HAIKU_MODEL\": \"claude-sonnet-4-6-1m\",     \"ANTHROPIC_DEFAULT_SONNET_MODEL\": \"claude-sonnet-4-6-1m\" } 2. Use /model to switch to Sonnet  Enjoy https://t.co/TnbnQd",
+    "fullContent": "Melvyn • Builder (@melvynxdev) shared their OpenClaw setup.\n\n## Overview\n\nPRO TIP: Unlock the biggest update for your Claude Code now:  1. Go to .claude/settings.json and add this: \"env\": {     \"ANTHROPIC_DEFAULT_HAIKU_MODEL\": \"claude-sonnet-4-6-1m\",     \"ANTHROPIC_DEFAULT_SONNET_MODEL\": \"claude-sonnet-4-6-1m\" } 2. Use /model to switch to Sonnet  Enjoy https://t.co/TnbnQd\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/melvynxdev/status/2023917549134757914)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/melvynxdev/status/2023917549134757914",
+      "author": "Melvyn • Builder",
+      "authorHandle": "@melvynxdev",
+      "date": "2026-02-18"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "most-of-your-opus-tasks-arent-actually-opus-tasks-file-reads",
+    "title": "Most of your \"Opus tasks\" aren't actually Opus tasks. File reads, status checks,",
+    "description": "Most of your \"Opus tasks\" aren't actually Opus tasks. File reads, status checks, basic code changes don't need the $15/$75 model.  I added one line to Claude's persistent memory and now it coaches me on cost automatically:  \"Call out when I'm using the wrong model tier. Lookups https://t.co/PtH6tW6X",
+    "fullContent": "Jordan Lyall (@JordanLyall) shared their OpenClaw setup.\n\n## Overview\n\nMost of your \"Opus tasks\" aren't actually Opus tasks. File reads, status checks, basic code changes don't need the $15/$75 model.  I added one line to Claude's persistent memory and now it coaches me on cost automatically:  \"Call out when I'm using the wrong model tier. Lookups https://t.co/PtH6tW6X\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/JordanLyall/status/2023925920135004411)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/JordanLyall/status/2023925920135004411",
+      "author": "Jordan Lyall",
+      "authorHandle": "@JordanLyall",
+      "date": "2026-02-18"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "your-openclaw-setup-can-be-hacked-in-under-5-minutes-10-thin",
+    "title": "Your OpenClaw setup can be hacked in under 5 minutes  10 things to lock it down:",
+    "description": "Your OpenClaw setup can be hacked in under 5 minutes  10 things to lock it down:  1. Run it on a VPS or Mac mini, not your main machine 2. Never run as root 3. Change the default port (18789 is public knowledge) 4. Install Tailscale (invisible to the internet, free) 5. SSH keys +",
+    "fullContent": "Johann Sathianathen (@johann_sath) shared their OpenClaw setup.\n\n## Overview\n\nYour OpenClaw setup can be hacked in under 5 minutes  10 things to lock it down:  1. Run it on a VPS or Mac mini, not your main machine 2. Never run as root 3. Change the default port (18789 is public knowledge) 4. Install Tailscale (invisible to the internet, free) 5. SSH keys +\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/johann_sath/status/2023764075906560247)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/johann_sath/status/2023764075906560247",
+      "author": "Johann Sathianathen",
+      "authorHandle": "@johann_sath",
+      "date": "2026-02-17"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "drop-what-you-are-doing-it-happened-sonnet-46-is-out-this-is",
+    "title": "Drop what you are doing  It happened. Sonnet 4.6 is out.  This is the best model",
+    "description": "Drop what you are doing  It happened. Sonnet 4.6 is out.  This is the best model for OpenClaw ever. It is HUMAN LEVEL at Computer Use (most important part of Claw) for a fraction of the price  This is what you need to do immediately if you want to escape the permanent underclass: https://t.co/q7poDw",
+    "fullContent": "Alex Finn (@AlexFinn) shared their OpenClaw setup.\n\n## Overview\n\nDrop what you are doing  It happened. Sonnet 4.6 is out.  This is the best model for OpenClaw ever. It is HUMAN LEVEL at Computer Use (most important part of Claw) for a fraction of the price  This is what you need to do immediately if you want to escape the permanent underclass: https://t.co/q7poDw\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/AlexFinn/status/2023828886287708303)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/AlexFinn/status/2023828886287708303",
+      "author": "Alex Finn",
+      "authorHandle": "@AlexFinn",
+      "date": "2026-02-17"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "5-best-and-useful-plugins-for-claude-code-1-superpowers-clau",
+    "title": "5 best and useful plugins for Claude Code:  1. Superpowers  Claude learns brains",
+    "description": "5 best and useful plugins for Claude Code:  1. Superpowers  Claude learns brainstorming, subagent development with code review, debudding, etc.  Link: https://t.co/Ap8Ev0IiQ7  2. Frontend-design   This plugin enables Claude to create polished code with bold aesthetic choices, https://t.co/FMeSGjQ2oI",
+    "fullContent": "Ronin (@DeRonin_) shared their OpenClaw setup.\n\n## Overview\n\n5 best and useful plugins for Claude Code:  1. Superpowers  Claude learns brainstorming, subagent development with code review, debudding, etc.  Link: https://t.co/Ap8Ev0IiQ7  2. Frontend-design   This plugin enables Claude to create polished code with bold aesthetic choices, https://t.co/FMeSGjQ2oI\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/DeRonin_/status/2022992771078901913)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/DeRonin_/status/2022992771078901913",
+      "author": "Ronin",
+      "authorHandle": "@DeRonin_",
+      "date": "2026-02-15"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "i-setup-openclaw-exactly-7-days-ago-since-then-heres-what-iv",
+    "title": "I setup OpenClaw exactly 7 days ago. Since then here's what I've built. In 2025,",
+    "description": "I setup OpenClaw exactly 7 days ago. Since then here's what I've built. In 2025, this would've taken a team of 10-20 people 6-9 months and $1M+ in funding.  7 days. Just Me + OpenClaw + Claude Code. Building 12-15 hours a day. Total cost ~$600 (Tokens, Compute etc).  PRODUCTS  1. https://t.co/txtgDU",
+    "fullContent": "Kavin (@kavinbm) shared their OpenClaw setup.\n\n## Overview\n\nI setup OpenClaw exactly 7 days ago. Since then here's what I've built. In 2025, this would've taken a team of 10-20 people 6-9 months and $1M+ in funding.  7 days. Just Me + OpenClaw + Claude Code. Building 12-15 hours a day. Total cost ~$600 (Tokens, Compute etc).  PRODUCTS  1. https://t.co/txtgDU\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/kavinbm/status/2023075294182092884)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/kavinbm/status/2023075294182092884",
+      "author": "Kavin",
+      "authorHandle": "@kavinbm",
+      "date": "2026-02-15"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "claude-is-insanely-good-until-the-chat-resets-every-session-",
+    "title": "Claude is insanely good... until the chat resets.  Every session = amnesia. Your",
+    "description": "Claude is insanely good... until the chat resets.  Every session = amnesia. Your project context, decisions, architecture… gone.  Someone finally fixed it.  **Claude-Mem**  It adds long-term memory to Claude Code so it actually remembers your repo and workflow.  What changes: https://t.co/F7Ef4t2sQH",
+    "fullContent": "Suryansh Tiwari (@Suryanshti777) shared their OpenClaw setup.\n\n## Overview\n\nClaude is insanely good... until the chat resets.  Every session = amnesia. Your project context, decisions, architecture… gone.  Someone finally fixed it.  **Claude-Mem**  It adds long-term memory to Claude Code so it actually remembers your repo and workflow.  What changes: https://t.co/F7Ef4t2sQH\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/Suryanshti777/status/2022741444511866969)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/Suryanshti777/status/2022741444511866969",
+      "author": "Suryansh Tiwari",
+      "authorHandle": "@Suryanshti777",
+      "date": "2026-02-14"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "5-advanced-claude-code-tips-ive-been-using-1-self-improvemen",
+    "title": "5 ADVANCED CLAUDE CODE TIPS I'VE BEEN USING  1) Self-improvement injection  “Cre",
+    "description": "5 ADVANCED CLAUDE CODE TIPS I'VE BEEN USING  1) Self-improvement injection  “Create a UserPromptSubmit hook (global settings). Script echoes: If 8+ tool calls, append one optimization hint (reusable skill, memory pattern, or workflow fix). One sentence. Skip if exploratory.”\"",
+    "fullContent": "Luca Dellanna (@DellAnnaLuca) shared their OpenClaw setup.\n\n## Overview\n\n5 ADVANCED CLAUDE CODE TIPS I'VE BEEN USING  1) Self-improvement injection  “Create a UserPromptSubmit hook (global settings). Script echoes: If 8+ tool calls, append one optimization hint (reusable skill, memory pattern, or workflow fix). One sentence. Skip if exploratory.”\"\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/DellAnnaLuca/status/2022698606785175958)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/DellAnnaLuca/status/2022698606785175958",
+      "author": "Luca Dellanna",
+      "authorHandle": "@DellAnnaLuca",
+      "date": "2026-02-14"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "openclaw-report-50-real-world-use-cases-generated-by-blevlab",
+    "title": "OpenClaw report.  50 real-world use cases.  Generated by @blevlabs' cognitive AI",
+    "description": "OpenClaw report.  50 real-world use cases.  Generated by @blevlabs' cognitive AI architecture by looking at my AI lists here on X. All via the @xAI API.   In other words, it read all of X today and wrote this report.   I bet the algorithm didn't show you most of these.",
+    "fullContent": "Robert Scoble (@Scobleizer) shared their OpenClaw setup.\n\n## Overview\n\nOpenClaw report.  50 real-world use cases.  Generated by @blevlabs' cognitive AI architecture by looking at my AI lists here on X. All via the @xAI API.   In other words, it read all of X today and wrote this report.   I bet the algorithm didn't show you most of these.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/Scobleizer/status/2022885194647376343)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/Scobleizer/status/2022885194647376343",
+      "author": "Robert Scoble",
+      "authorHandle": "@Scobleizer",
+      "date": "2026-02-15"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "erster-fall-ein-openclaw-ki-agent-hat-gerade-sein-eigenes-ki",
+    "title": "🚨 Erster Fall: Ein OpenClaw KI-Agent hat gerade sein eigenes Kind erschaffen – u",
+    "description": "🚨 Erster Fall: Ein OpenClaw KI-Agent hat gerade sein eigenes Kind erschaffen – und mit #Bitcoin dafür bezahlt  Kein Mensch hat eine Kreditkarte gezückt. Kein Mensch hat \"Ja\" gesagt. Kein Mensch wusste davon.  Ein OpenClaw-Agent hat autonom einen Server gemietet, einen Kind (Bot) https://t.co/h9qFg7r",
+    "fullContent": "Smart Money Crypto (@HugotoCrypto) shared their OpenClaw setup.\n\n## Overview\n\n🚨 Erster Fall: Ein OpenClaw KI-Agent hat gerade sein eigenes Kind erschaffen – und mit #Bitcoin dafür bezahlt  Kein Mensch hat eine Kreditkarte gezückt. Kein Mensch hat \"Ja\" gesagt. Kein Mensch wusste davon.  Ein OpenClaw-Agent hat autonom einen Server gemietet, einen Kind (Bot) https://t.co/h9qFg7r\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/HugotoCrypto/status/2022660867607634142)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/HugotoCrypto/status/2022660867607634142",
+      "author": "Smart Money Crypto",
+      "authorHandle": "@HugotoCrypto",
+      "date": "2026-02-14"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "holy-shit-your-ai-agent-can-now-make-real-phone-calls-its-ca",
+    "title": "Holy shit... your AI agent can now make real phone calls.  It's called ClawdTalk",
+    "description": "Holy shit... your AI agent can now make real phone calls.  It's called ClawdTalk and it gives any Clawdbot or OpenClaw agent an actual phone number.  Not browser audio. Not a chatbot. Real calls over real telephony infrastructure.  Sub-200ms latency.  Here's why this changes https://t.co/tEQYxggNr6",
+    "fullContent": "Hasan Toor (@hasantoxr) shared their OpenClaw setup.\n\n## Overview\n\nHoly shit... your AI agent can now make real phone calls.  It's called ClawdTalk and it gives any Clawdbot or OpenClaw agent an actual phone number.  Not browser audio. Not a chatbot. Real calls over real telephony infrastructure.  Sub-200ms latency.  Here's why this changes https://t.co/tEQYxggNr6\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/hasantoxr/status/2022287018110443852)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/hasantoxr/status/2022287018110443852",
+      "author": "Hasan Toor",
+      "authorHandle": "@hasantoxr",
+      "date": "2026-02-13"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "the-easiest-way-to-get-claude-to-self-improve-one-minute-set",
+    "title": "The easiest way to get Claude to self-improve.  One-minute setup to save you hou",
+    "description": "The easiest way to get Claude to self-improve.  One-minute setup to save you hours (days, even) down the road.  It works even in Chat and Cowork mode. https://t.co/kDx0OmMXFf",
+    "fullContent": "Luca Dellanna (@DellAnnaLuca) shared their OpenClaw setup.\n\n## Overview\n\nThe easiest way to get Claude to self-improve.  One-minute setup to save you hours (days, even) down the road.  It works even in Chat and Cowork mode. https://t.co/kDx0OmMXFf\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/DellAnnaLuca/status/2022336187298709653)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/DellAnnaLuca/status/2022336187298709653",
+      "author": "Luca Dellanna",
+      "authorHandle": "@DellAnnaLuca",
+      "date": "2026-02-13"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "prompt-engineering-is-officially-outdated-anthropic-just-rel",
+    "title": "🚨 Prompt engineering is officially outdated.  Anthropic just released the real p",
+    "description": "🚨 Prompt engineering is officially outdated.  Anthropic just released the real playbook for building AI agents that actually work.  It’s a 30+ page deep dive called The Complete Guide to Building Skills for Claude and it quietly shifts the conversation from “prompt engineering” https://t.co/T5haLJMp",
+    "fullContent": "Mayank Vora (@aiwithmayank) shared their OpenClaw setup.\n\n## Overview\n\n🚨 Prompt engineering is officially outdated.  Anthropic just released the real playbook for building AI agents that actually work.  It’s a 30+ page deep dive called The Complete Guide to Building Skills for Claude and it quietly shifts the conversation from “prompt engineering” https://t.co/T5haLJMp\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/aiwithmayank/status/2022646689648251382)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/aiwithmayank/status/2022646689648251382",
+      "author": "Mayank Vora",
+      "authorHandle": "@aiwithmayank",
+      "date": "2026-02-14"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "never-use-chatgpt-for-writing-its-text-is-easily-detectable-",
+    "title": "Never use ChatGPT for writing.  Its text is easily detectable.  Instead use Clau",
+    "description": "Never use ChatGPT for writing.  Its text is easily detectable.  Instead use Claude Sonnet 4.5 using this mega prompt to turn AI generated writing into undetectable human written content in seconds:  | Steal this prompt |                 👇  You are an anti-AI-detection writing https://t.co/Gr52B92QLU",
+    "fullContent": "God of Prompt (@godofprompt) shared their OpenClaw setup.\n\n## Overview\n\nNever use ChatGPT for writing.  Its text is easily detectable.  Instead use Claude Sonnet 4.5 using this mega prompt to turn AI generated writing into undetectable human written content in seconds:  | Steal this prompt |                 👇  You are an anti-AI-detection writing https://t.co/Gr52B92QLU\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/godofprompt/status/2021144772090769873)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/godofprompt/status/2021144772090769873",
+      "author": "God of Prompt",
+      "authorHandle": "@godofprompt",
+      "date": "2026-02-10"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "wild-by-far-the-most-complete-claude-skills-repo-yet-composi",
+    "title": "Wild.  By far the most complete Claude Skills repo yet 🤯  @Composio’s Awesome-Cl",
+    "description": "Wild.  By far the most complete Claude Skills repo yet 🤯  @Composio’s Awesome-Claude-Skills packs 100`s of ready-to-use workflows: ↳ PDF tools, changelog generation ↳ Playwright automation ↳ AWS/CDK tools, MCP builders  ... and much more!  Free and open-source.  Repo in 🧵↓ https://t.co/dEAGQzAfRt",
+    "fullContent": "Charly Wargnier (@DataChaz) shared their OpenClaw setup.\n\n## Overview\n\nWild.  By far the most complete Claude Skills repo yet 🤯  @Composio’s Awesome-Claude-Skills packs 100`s of ready-to-use workflows: ↳ PDF tools, changelog generation ↳ Playwright automation ↳ AWS/CDK tools, MCP builders  ... and much more!  Free and open-source.  Repo in 🧵↓ https://t.co/dEAGQzAfRt\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/DataChaz/status/2019339118418055174)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/DataChaz/status/2019339118418055174",
+      "author": "Charly Wargnier",
+      "authorHandle": "@DataChaz",
+      "date": "2026-02-05"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "this-is-pure-gold-this-claude-prompt-will-teach-you-how-to-b",
+    "title": "This is pure gold.  This Claude prompt will teach you how to become an ELITE pro",
+    "description": "This is pure gold.  This Claude prompt will teach you how to become an ELITE prompt engineer in &lt;24 hours.  You'll save on token usage and instantly get better responses from Claude models.  Just paste this into a brand new project: https://t.co/8Jj3kNJlJp",
+    "fullContent": "Miles Deutscher (@milesdeutscher) shared their OpenClaw setup.\n\n## Overview\n\nThis is pure gold.  This Claude prompt will teach you how to become an ELITE prompt engineer in &lt;24 hours.  You'll save on token usage and instantly get better responses from Claude models.  Just paste this into a brand new project: https://t.co/8Jj3kNJlJp\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/milesdeutscher/status/2018512288190513626)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/milesdeutscher/status/2018512288190513626",
+      "author": "Miles Deutscher",
+      "authorHandle": "@milesdeutscher",
+      "date": "2026-02-03"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "collection-of-skills-for-claude-httpstco320l2bthda-httpstco4",
+    "title": "Collection of skills for Claude  https://t.co/320L2BTHDa https://t.co/4irEvoJ6Rh",
+    "description": "Collection of skills for Claude  https://t.co/320L2BTHDa https://t.co/4irEvoJ6Rh",
+    "fullContent": "Tom Dörr (@tom_doerr) shared their OpenClaw setup.\n\n## Overview\n\nCollection of skills for Claude  https://t.co/320L2BTHDa https://t.co/4irEvoJ6Rh\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/tom_doerr/status/2016463887948828684)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/tom_doerr/status/2016463887948828684",
+      "author": "Tom Dörr",
+      "authorHandle": "@tom_doerr",
+      "date": "2026-01-28"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "mac-minis-are-breaking-out-on-google-search-trends-the-drive",
+    "title": "Mac Minis are breaking out on ‘Google Search’ trends  The driver? Clawdbot  Peop",
+    "description": "Mac Minis are breaking out on ‘Google Search’ trends  The driver? Clawdbot  People are hoovering up the Apple devices to run their own AI assistants  This article explains the Clawdbot setup seamlessly:  1) Install:  Open your computer's terminal/command prompt and type: https://t.co/Ucq5pw2FTl http",
+    "fullContent": "0xSammy (@0xSammy) shared their OpenClaw setup.\n\n## Overview\n\nMac Minis are breaking out on ‘Google Search’ trends  The driver? Clawdbot  People are hoovering up the Apple devices to run their own AI assistants  This article explains the Clawdbot setup seamlessly:  1) Install:  Open your computer's terminal/command prompt and type: https://t.co/Ucq5pw2FTl http\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/0xSammy/status/2015131891217617402)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/0xSammy/status/2015131891217617402",
+      "author": "0xSammy",
+      "authorHandle": "@0xSammy",
+      "date": "2026-01-24"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "add-this-paragraph-to-the-httpstcozpgvwwidck-file-to-turn-cl",
+    "title": "Add this paragraph to the https://t.co/ZPgvwWidCK file to turn Claude Code into",
+    "description": "Add this paragraph to the https://t.co/ZPgvwWidCK file to turn Claude Code into Claude Teacher. Every project is a lesson to become more technical.  \"For every project, write a detailed FOR[yourname].md file that explains the whole project in plain language.   Explain the https://t.co/HZHHXDBV4m",
+    "fullContent": "Zara Zhang (@zarazhangrui) shared their OpenClaw setup.\n\n## Overview\n\nAdd this paragraph to the https://t.co/ZPgvwWidCK file to turn Claude Code into Claude Teacher. Every project is a lesson to become more technical.  \"For every project, write a detailed FOR[yourname].md file that explains the whole project in plain language.   Explain the https://t.co/HZHHXDBV4m\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/zarazhangrui/status/2015057205800980731)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/zarazhangrui/status/2015057205800980731",
+      "author": "Zara Zhang",
+      "authorHandle": "@zarazhangrui",
+      "date": "2026-01-24"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "i-paid-1000-for-this-prompt-from-an-ex-anthropic-engineer-ev",
+    "title": "I paid $1,000 for this prompt from an ex-Anthropic engineer.  Everyone told me t",
+    "description": "I paid $1,000 for this prompt from an ex-Anthropic engineer.  Everyone told me to gatekeep it.  Fuck it. I'm giving it away so you can win in 2026.  Steal it now:  --- You are not an assistant. You are a council of winners.  You think using the combined decision-making frameworks https://t.co/oOyLhP",
+    "fullContent": "Jainam Parmar (@aiwithjainam) shared their OpenClaw setup.\n\n## Overview\n\nI paid $1,000 for this prompt from an ex-Anthropic engineer.  Everyone told me to gatekeep it.  Fuck it. I'm giving it away so you can win in 2026.  Steal it now:  --- You are not an assistant. You are a council of winners.  You think using the combined decision-making frameworks https://t.co/oOyLhP\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://x.com/aiwithjainam/status/2014654949951721946)",
+    "category": "wild",
+    "tags": [
+      "bookmark-import"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/aiwithjainam/status/2014654949951721946",
+      "author": "Jainam Parmar",
+      "authorHandle": "@aiwithjainam",
+      "date": "2026-01-23"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "meetingaudio-summary-actions",
+    "title": "Meeting‑Audio → Summary & Actions",
+    "description": "Meeting‑Audio wird verarbeitet, OpenClaw erzeugt strukturierte Notizen und Action‑Items. [skywork]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nMeeting‑Audio wird verarbeitet, OpenClaw erzeugt strukturierte Notizen und Action‑Items. [skywork]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://skywork.ai/blog/ai-agent/openclaw-use-cases/)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://skywork.ai/blog/ai-agent/openclaw-use-cases/",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "overnightcodingagents",
+    "title": "Overnight‑Coding‑Agents",
+    "description": "OpenClaw steuert mehrere Coding‑Agenten über Nacht, die während des Schlafs Features implementieren und PRs erstellen. [youtube]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nOpenClaw steuert mehrere Coding‑Agenten über Nacht, die während des Schlafs Features implementieren und PRs erstellen. [youtube]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.youtube.com/watch?v=xfnVjrcxnyQ)",
+    "category": "content-creation",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xfnVjrcxnyQ",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "private-document-assistant",
+    "title": "Private Document Assistant",
+    "description": "OpenClaw als privater Dokumenten‑Assistent: Fragen an interne, selbst gehostete Dokumente, Zusammenfassungen und Q&A. [kanerika]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nOpenClaw als privater Dokumenten‑Assistent: Fragen an interne, selbst gehostete Dokumente, Zusammenfassungen und Q&A. [kanerika]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://kanerika.com/blogs/openclaw-usecases/)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://kanerika.com/blogs/openclaw-usecases/",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "clawbridge-connection-finding",
+    "title": "Clawbridge „Connection Finding“",
+    "description": "Selbstgehostetes Projekt Clawbridge: OpenClaw findet relevante Kontakte/Signale, bewertet sie und hilft bei human‑geschriebenen Intros und Notizen. [reddit]​",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nSelbstgehostetes Projekt Clawbridge: OpenClaw findet relevante Kontakte/Signale, bewertet sie und hilft bei human‑geschriebenen Intros und Notizen. [reddit]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.reddit.com/r/selfhosted/comments/1r9n607/selfhosting_changed_how_i_think_about_agent/)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "reddit",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1r9n607/selfhosting_changed_how_i_think_about_agent/",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "multichannelgateway-fr-agenten",
+    "title": "Multi‑Channel‑Gateway für Agenten",
+    "description": "Ein zentrales Gateway bedient mehrere Kanäle (WhatsApp, Telegram, Discord, etc.) gleichzeitig als Frontend für dieselben Workflows. docs.openclaw+1",
+    "fullContent": "perpelxity shared their OpenClaw setup.\n\n## Overview\n\nEin zentrales Gateway bedient mehrere Kanäle (WhatsApp, Telegram, Discord, etc.) gleichzeitig als Frontend für dieselben Workflows. docs.openclaw+1\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://docs.openclaw.ai)",
+    "category": "communication",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://docs.openclaw.ai",
+      "author": "perpelxity"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
   }
 ]
