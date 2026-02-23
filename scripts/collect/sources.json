@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "description": "Manual source catalog for daily case discovery (preparation only).",
+  "xQueries": [
+    {
+      "id": "x-openclaw-use-cases",
+      "query": "(OpenClaw OR Clawdbot) (workflow OR automation OR agent OR setup) (github OR demo OR thread)",
+      "priority": "high",
+      "notes": "Primary X discovery query for practical use cases"
+    },
+    {
+      "id": "x-openclaw-dev",
+      "query": "(OpenClaw OR Clawdbot) (PR OR deploy OR sentry OR CI OR script)",
+      "priority": "high",
+      "notes": "Developer-heavy use cases"
+    }
+  ],
+  "xProfiles": [
+    {
+      "id": "x-community",
+      "url": "https://x.com/i/lists/REPLACE_WITH_LIST_ID",
+      "priority": "high",
+      "notes": "Curated builder/community list"
+    }
+  ],
+  "githubSearches": [
+    {
+      "id": "gh-openclaw-usecases",
+      "url": "https://github.com/search?q=openclaw+use+case&type=repositories",
+      "priority": "high"
+    },
+    {
+      "id": "gh-clawdbot-workflows",
+      "url": "https://github.com/search?q=clawdbot+workflow&type=repositories",
+      "priority": "medium"
+    }
+  ],
+  "webSources": [
+    {
+      "id": "awesome-openclaw-usecases",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+      "priority": "high"
+    },
+    {
+      "id": "openclaw-showcase",
+      "url": "https://clawd.bot/showcase",
+      "priority": "high"
+    },
+    {
+      "id": "reddit-openclaw",
+      "url": "https://www.reddit.com/search/?q=openclaw",
+      "priority": "medium"
+    },
+    {
+      "id": "youtube-openclaw",
+      "url": "https://www.youtube.com/results?search_query=openclaw+use+case",
+      "priority": "medium"
+    }
+  ]
+}

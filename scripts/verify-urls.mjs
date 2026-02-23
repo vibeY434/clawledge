@@ -13,6 +13,7 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync } from "fs";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
+import { validateSourceUrl } from "./lib/schema.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -106,9 +107,10 @@ for (let i = 0; i < cases.length; i += BATCH_SIZE) {
 
   const promises = batch.map(async (c) => {
     const url = c.source?.url;
-    if (!url) {
+    const urlValidationError = validateSourceUrl(url);
+    if (urlValidationError) {
       results.error++;
-      broken.push({ id: c.id, url: "(missing)", status: "NO_URL" });
+      broken.push({ id: c.id, url: url || "(missing)", status: urlValidationError });
       return;
     }
 

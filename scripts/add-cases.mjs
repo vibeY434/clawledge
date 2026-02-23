@@ -12,7 +12,7 @@
 import { readFileSync, writeFileSync, readdirSync, mkdirSync, renameSync, existsSync } from "fs";
 import { resolve, dirname, basename } from "path";
 import { fileURLToPath } from "url";
-import { applyDefaults, validateCase, buildDedupIndex, isDuplicate } from "./lib/schema.mjs";
+import { applyDefaults, validateCase, buildDedupIndex, isDuplicate, normalizeUrl } from "./lib/schema.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -140,7 +140,7 @@ for (const raw of pendingCases) {
   }
 
   // Add to index (prevent self-duplication within batch)
-  index.byUrl.add((c.source?.url || "").toLowerCase().replace(/\/$/, ""));
+  index.byUrl.add(normalizeUrl(c.source?.url));
   index.byId.add(c.id);
 
   newCases.push(c);

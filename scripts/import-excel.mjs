@@ -10,13 +10,14 @@
  *   node scripts/import-excel.mjs                           # Default: ./openclawusecases.xlsx
  *   node scripts/import-excel.mjs path/to/file.xlsx         # Custom path
  *   node scripts/import-excel.mjs --dry-run                 # Preview without writing
+ *   node scripts/import-excel.mjs file.xlsx --fallback-url https://clawledge.com
  */
 
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "fs";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 import XLSX from "xlsx";
-import { resolveCategory, applyDefaults, validateCase, buildDedupIndex, isDuplicate } from "./lib/schema.mjs";
+import { resolveCategory, applyDefaults, validateCase, buildDedupIndex, isDuplicate, normalizeUrl, validateSourceUrl } from "./lib/schema.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
@@ -26,11 +27,22 @@ const PENDING_DIR = resolve(__dirname, "pending");
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
 const customPath = args.find(a => a.endsWith(".xlsx") || a.endsWith(".xls"));
+const fallbackIdx = args.indexOf("--fallback-url");
+const fallbackUrl = fallbackIdx !== -1 ? String(args[fallbackIdx + 1] || "").trim() : "";
+const fallbackHost = "https://clawledge.com";
 const excelPath = customPath ? resolve(customPath) : resolve(ROOT, "openclawusecases.xlsx");
 
 if (!existsSync(excelPath)) {
   console.error(`❌ Excel file not found: ${excelPath}`);
   process.exit(1);
+}
+
+if (fallbackUrl) {
+  const fallbackError = validateSourceUrl(fallbackUrl);
+  if (fallbackError) {
+    console.error(`❌ Invalid --fallback-url: ${fallbackError}`);
+    process.exit(1);
+  }
 }
 
 // ─── Load existing data for dedup ────────────────────────────
@@ -85,21 +97,36 @@ for (const sheetName of workbook.SheetNames) {
 const validCases = [];
 let dupes = 0;
 let invalid = 0;
+let fallbackApplied = 0;
 
 for (const raw of allCases) {
   const c = applyDefaults(raw);
-  const { valid, errors } = validateCase(c);
+  let { valid } = validateCase(c);
+
+  if (!valid && fallbackUrl) {
+    c.source = {
+      ...(c.source || {}),
+      url: fallbackUrl,
+      type: "blog",
+      author: c.source?.author || "Unknown",
+    };
+    ({ valid } = validateCase(c));
+    if (valid) fallbackApplied++;
+  }
+
   if (!valid) {
     invalid++;
     continue;
   }
+
   const dup = isDuplicate(c, dedupIndex);
   if (dup.duplicate) {
     dupes++;
     continue;
   }
+
   // Add to index to prevent intra-batch dupes
-  dedupIndex.byUrl.add((c.source?.url || "").toLowerCase().replace(/\/$/, ""));
+  dedupIndex.byUrl.add(normalizeUrl(c.source?.url));
   dedupIndex.byId.add(c.id);
   validCases.push(c);
 }
@@ -120,6 +147,7 @@ console.log(`\nTotal parsed:   ${allCases.length}`);
 console.log(`Valid new cases: ${validCases.length}`);
 console.log(`Duplicates:      ${dupes}`);
 console.log(`Invalid:         ${invalid}`);
+if (fallbackUrl) console.log(`Fallback URL used: ${fallbackApplied} cases (${fallbackUrl})`);
 
 if (validCases.length === 0) {
   console.log(`\nNo new cases to add.`);
@@ -136,6 +164,9 @@ mkdirSync(PENDING_DIR, { recursive: true });
 writeFileSync(outFile, JSON.stringify(validCases, null, 2));
 console.log(`\n✅ Output: ${outFile} (${validCases.length} cases)`);
 console.log(`Next: run "node scripts/add-cases.mjs" to merge into use-cases.json`);
+if (!fallbackUrl) {
+  console.log(`Tip: use --fallback-url ${fallbackHost} if rows are missing a safe source URL.`);
+}
 
 // ─── Column detection ────────────────────────────────────────
 
