@@ -11166,5 +11166,33 @@
     "impactScore": 5,
     "relatedSkills": [],
     "relatedRepos": []
+  },
+  {
+    "id": "zwar-gibt-es-auch-hardware-projekte-mit-hnlichem-namen-zb-gr",
+    "title": "Zwar gibt es auch Hardware-Projekte mit ähnlichem Namen (z.B. Greifer für Roboterarme), aber die aktuelle \"Hype\"-Welle und die explizite Suche nach Use Cases bezieht sich fast immer auf den AI-Agenten, der in den letzten Wochen (Stand Februar 2026) viral ging.",
+    "description": "Zwar gibt es auch Hardware-Projekte mit ähnlichem Namen (z.B. Greifer für Roboterarme), aber die aktuelle \"Hype\"-Welle und die explizite Suche nach Use Cases bezieht sich fast immer auf den AI-Agenten, der in den letzten Wochen (Stand Februar 2026) viral ging.",
+    "fullContent": "gemini shared their OpenClaw setup.\n\n## Overview\n\nZwar gibt es auch Hardware-Projekte mit ähnlichem Namen (z.B. Greifer für Roboterarme), aber die aktuelle \"Hype\"-Welle und die explizite Suche nach Use Cases bezieht sich fast immer auf den AI-Agenten, der in den letzten Wochen (Stand Februar 2026) viral ging.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://clawledge.com)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://clawledge.com",
+      "author": "gemini"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-02-23",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
   }
 ]
