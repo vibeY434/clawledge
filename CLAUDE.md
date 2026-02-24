@@ -57,6 +57,12 @@ Excel/Showcase -> npm run import -> scripts/pending/*.json
 - URL-Validierung: nur http(s), blocked Extensions (.exe etc.), max 500 Zeichen
 - Formula Injection: Texte mit `=+-@` am Anfang werden mit `'` prefixed
 
+## Multi-Agent CHANGELOGs
+- **Clawledge-Aenderungen:** NUR in `CHANGELOG.md` (dieses Repo, `/home/openclaw/clawledge/CHANGELOG.md`)
+- **OpenClaw/Tyrone-Aenderungen:** NUR in `/home/openclaw/.openclaw/CHANGELOG.md` (VPS)
+- **Format:** Datum (ISO), Agent-ID (claude/codex/antigravity/tyrone), Was, Wie
+- **Agents:** Claude Code (lokal), OpenAI Codex (GitHub), Google Antigravity (VPS), Tyrone/DeepSeek (VPS)
+
 ## GitHub
 - Repo: https://github.com/vibeY434/clawledge.git (private)
 - Branch: main
