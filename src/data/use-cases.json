@@ -11194,5 +11194,150 @@
     "impactScore": 5,
     "relatedSkills": [],
     "relatedRepos": []
+  },
+  {
+    "id": "flight-checkin-bot",
+    "title": "Automatic Flight Check-in Bot",
+    "description": "An agent that monitors flight bookings and automatically logs in the second check-in opens to secure the best seats (e.g. exit row), without having to set an alarm for 3 AM.",
+    "fullContent": "Getting the best seat on a flight often means checking in exactly 24 hours before departure, which can happen at very inconvenient times. This OpenClaw agent does it for you automatically.\n\n## How It Works\n- You provide your booking reference and passenger details to the agent.\n- The agent schedules a precise cron job for exactly when check-in opens.\n- At the exact second, it uses browser automation to navigate the airline's website.\n- It fills in the details, navigates the seat map, selects preferred seats (like exit rows), and completes the check-in.\n- Delivers your boarding pass directly to your Telegram or email.\n\n## The Edge\n- Never wake up at 3 AM to check in again.\n- Beats humans clicking manually, securing premium free seats.\n- Can be monetized by offering it as a VIP service for business travelers.",
+    "category": "productivity",
+    "tags": [
+      "travel",
+      "browser-automation",
+      "booking",
+      "flights"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "2-3 hours",
+    "source": {
+      "type": "x-post",
+      "url": "https://x.com/search?q=openclaw+flight+check-in",
+      "author": "OpenClaw Community",
+      "date": "2026-02-15"
+    },
+    "requirements": [
+      "Always-on machine (VPS/Mac Mini)",
+      "Claude API Key",
+      "Browser automation enabled"
+    ],
+    "monthlyApiCost": "$5-15",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-25",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": [],
+    "revenueEstimate": "Service fee per flight"
+  },
+  {
+    "id": "second-brain-oracle",
+    "title": "The 'SecondBrain' Oracle",
+    "description": "The agent scans all links (articles, YouTube transcripts, PDFs) sent via Telegram, vectorizes the content locally, and acts as a personal oracle that can recall specific details weeks later.",
+    "fullContent": "Stop losing great articles and videos in endless bookmarks. This OpenClaw automation turns your Telegram chat into a searchable, intelligent 'Second Brain'.\n\n## The Pipeline\n1. **Capture:** You drop a link (YouTube, PDF, Substack) into Telegram.\n2. **Process:** OpenClaw fetches the content, transcribes videos if necessary, and parses text.\n3. **Store:** The content is chunked, embedded, and saved to a local SQLite/FAISS vector database.\n4. **Retrieve:** Weeks later, you can ask natural language questions like: 'What was the core thesis from that PDF about AI agents last Tuesday?'\n\n## Privacy First\n- Everything is stored locally on your machine.\n- No SaaS subscriptions indexing your personal reading list.\n- Instant recall without relying on external search engines.",
+    "category": "research",
+    "tags": [
+      "knowledge-base",
+      "vector-db",
+      "telegram",
+      "memory",
+      "rag"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1 weekend",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/docs/second-brain-telegram.md",
+      "author": "Hesam Sheikh",
+      "date": "2026-02-10"
+    },
+    "requirements": [
+      "Always-on machine",
+      "Claude API Key",
+      "Local vector DB (SQLite/FAISS)",
+      "Telegram integration"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": true,
+    "dateAdded": "2026-02-25",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "natural-language-crm",
+    "title": "Natural Language CRM (Voice-to-Deal)",
+    "description": "Sales reps send voice memos to the bot about their meetings. The agent extracts the data, updates the CRM (Salesforce/HubSpot), creates tasks, and sets reminders automatically.",
+    "fullContent": "Data entry is the worst part of sales. This OpenClaw agent lets sales reps update their CRM using natural language voice memos from their cars.\n\n## The Workflow\n- **Input:** Rep sends a voice note to Telegram: 'Just finished the meeting with Acme Corp, they want a $50k proposal by next Friday. Follow up on Tuesday.'\n- **Transcription:** OpenClaw transcribes the audio.\n- **Extraction:** LLM identifies the lead (Acme Corp), deal size ($50k), deadline (next Friday), and next action.\n- **CRM Update:** Agent uses HubSpot or Salesforce API to update the deal stage, add meeting notes, and create a follow-up task.\n\n## The Business Value\n- Saves hours of administrative data entry per week.\n- Ensures CRM is always up-to-date and accurate.\n- High value for agencies and sales teams.\n- Can be packaged and sold as a white-glove automation service.",
+    "category": "money-making",
+    "tags": [
+      "sales",
+      "crm",
+      "voice",
+      "automation",
+      "freelance"
+    ],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "4-5 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://markaicode.com/openclaw-money-making-automations-2026/voice-crm",
+      "author": "MarkAICode",
+      "date": "2026-02-18"
+    },
+    "requirements": [
+      "Always-on machine",
+      "Claude API Key",
+      "CRM API Access (HubSpot/Salesforce)",
+      "Telegram voice integration"
+    ],
+    "monthlyApiCost": "$20-40",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-25",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": [],
+    "revenueEstimate": "$300-800/mo per sales team"
+  },
+  {
+    "id": "overnight-saas-prototype-builder",
+    "title": "Overnight SaaS Prototype Builder",
+    "description": "Give the agent a rough 'Brain Dump' of an app idea at 11 PM. It works all night: researching the stack, building Next.js boilerplate, setting up Supabase, and creating a landing page by morning.",
+    "fullContent": "Leveraging OpenClaw's 'Heartbeat' autonomy, the Overnight Build Pattern turns the agent into a tireless developer that works while you sleep.\n\n## The Overnight Sprint\n1. **11:00 PM:** You provide a detailed prompt describing your app idea, preferred tech stack, and core features.\n2. **Midnight:** Agent researches dependencies, initializes a Next.js project, and installs Tailwind.\n3. **2:00 AM:** Sets up the database schema and authentication via Supabase.\n4. **4:00 AM:** Builds the core UI components and wireframes the landing page.\n5. **6:00 AM:** Tests the build and fixes compilation errors.\n6. **8:00 AM:** You wake up to a working prototype, ready for human refinement.\n\n## Best Practices\n- Be extremely specific in your initial prompt.\n- Set constraints (e.g., 'Do not spend more than $5 on API credits').\n- Provide access to design systems or component libraries to speed up UI generation.",
+    "category": "development",
+    "tags": [
+      "coding",
+      "saas",
+      "prototyping",
+      "autonomous",
+      "overnight"
+    ],
+    "difficulty": "advanced",
+    "estimatedSetupTime": "1 night",
+    "source": {
+      "type": "github",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/docs/overnight-sprint.md",
+      "author": "OpenClaw Community",
+      "date": "2026-02-20"
+    },
+    "requirements": [
+      "24/7 VPS Server",
+      "Claude API Key (with sufficient limits)",
+      "Development tools installed (Node, Bun, Git)",
+      "API Keys for external services (Supabase, Vercel)"
+    ],
+    "monthlyApiCost": "$10-50 per build",
+    "monetizable": true,
+    "verified": true,
+    "dateAdded": "2026-02-25",
+    "featured": true,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": [],
+    "revenueEstimate": "MVP Development Service"
   }
 ]

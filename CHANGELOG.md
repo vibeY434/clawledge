@@ -13,6 +13,20 @@
   - Wenn Änderungen durch **Claude** gemacht wurden, nutze `claude`.
   - `antigravity` nur verwenden, wenn die Änderungen tatsächlich mit antigravity gemacht wurden.
 
+## 2026-02-25 — antigravity
+
+### Was geändert wurde
+- **Geändert:** `src/data/use-cases.json`
+  - 4 neue kuratierte OpenClaw Use Cases hinzugefügt:
+    1. Automatic Flight Check-in Bot (productivity)
+    2. The "Second Brain" Oracle (research)
+    3. Natural Language CRM (money-making)
+    4. Overnight SaaS Prototype Builder (development)
+
+### Wie es gemacht wurde
+- JSON-Strukturen basierend auf dem `schema.mjs` Format manuell erstellt und validiert.
+- Über das interne Node-Script `npm run add-cases` in die zentrale `use-cases.json` Datenbank überführt inklusive Auto-Dedup.
+
 ## 2026-02-22
 
 ### URL-Pipeline-Hardening (Follow-up)
@@ -103,3 +117,25 @@
 ### Wie es gemacht wurde
 - Ausführbares Bash-Skript als sicherer Wrapper um die bestehenden Node-Skripte erstellt.
 - Guardrails eingebaut (Datei-Existenzprüfung, Dry-Run als Default), damit auf dem VPS keine unbeabsichtigten Schreibvorgänge passieren.
+
+## 2026-02-23 — antigravity
+
+### Was geändert wurde
+- **Neu:** `scripts/content/x-job-ops.mjs`
+  - Implementation der strikten X API Rate-Limit Strategie (Write/Light/Read Trennung, Budgeting, Zeitfenster, 429-Handling).
+- **Neu:** `scripts/content/x-jobs-plan.md`
+  - Begleitende Dokumentation zum X API Rate Limit Operations Plan.
+- **Geändert:** `package.json`
+  - Neues npm-Kommando `x:ops` hinzugefügt, um den aktuellen Status der X API Nutzung (`node scripts/content/x-job-ops.mjs --status`) schnell abzurufen.
+
+### Wie es gemacht wurde
+- Neues Skript `x-job-ops.mjs` mit lokaler State-Speicherung (`x-api-state.json`) für tägliche (Rolling 24h) API-Limits angelegt.
+- Harte Trennung zwischen P0 (Write), P1 (Light Read) und P2 (Research Read) Jobs mittels Preflight-Checks (`--can-run`) realisiert.
+- Dokumentation der Freigabebedingungen (50/35/15 Budget, 01:00-05:00 Night Window, 3-stufiges Backoff) in `x-jobs-plan.md` festgehalten.
+
+## 2026-02-23
+
+### antigravity — X job scripts relocation
+
+- **Moved** X job scripts to `/home/openclaw/scripts/x-jobs/` and updated `package.json` script path.
+
