@@ -13,6 +13,26 @@
   - Wenn Änderungen durch **Claude** gemacht wurden, nutze `claude`.
   - `antigravity` nur verwenden, wenn die Änderungen tatsächlich mit antigravity gemacht wurden.
 
+## 2026-03-01 — claude
+
+### Social Media Engagement Guide (DE-Markt)
+
+- **Neu:** `scripts/content/social-media-engagement-guide.md`
+  - Umfassende Referenz fuer Tyrone & Content-Agents fuer deutschsprachiges X-Engagement
+  - Perspektive: pro-Ukraine, konservativ-liberal, technokratisch, pro-Leistung
+  - Inhalte:
+    - Grundprinzipien (Algorithmus, Provokation, goldene Regel)
+    - 13 Top-Themen in 3 Tiers mit Beispiel-Takes (Buergergeld, Ukraine, Gendern, Digitalisierung, Gruene, Steuern, OeRR, Migration, AI, Generationen, Tempolimit, Wohnen, Beamtentum)
+    - Taktische Formate & Muster (6 Format-Vorlagen, Engagement-Verstaerker, Reply-Strategie)
+    - **Dedizierte Ragebait-Sektion:** Schritt-fuer-Schritt-Konstruktion, 7 Archetypen mit Templates, Zuverlaessigkeits-Ranking, Eskalationsleiter, Tech-Ragebait fuer @clawledge, optimales Timing, Pre-Post-Checkliste
+    - Gruppen-Dynamiken (Spannungsfelder-Tabelle, Allianzen, Red Lines)
+    - Clawledge-spezifische Engagement-Bruecken
+    - Woechentlicher Content-Mix und Quick-Reference Regeln
+
+### Wie es gemacht wurde
+- Guide als Markdown-Datei im bestehenden Content-Verzeichnis erstellt
+- Ausgerichtet an bestehendem x-content-plan.md und tweet-queue.json
+
 ## 2026-02-25 — antigravity
 
 ### Was geändert wurde
