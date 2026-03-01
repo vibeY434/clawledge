@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "RB-001",
+    "topic": "buergergeld",
+    "archetype": "widerspruch",
+    "text": "Fachkraeftemangel: 1,7 Millionen offene Stellen.\nBuergergeld: 5,5 Millionen Empfaenger.\n\nErklaert mir das einer.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-002",
+    "topic": "buergergeld",
+    "archetype": "milchmaedchen",
+    "text": "Vollzeit Mindestlohn: 1.584 Euro netto.\nBuergergeld + Wohnung + Heizung + Zuschlaege: 1.563 Euro.\n\n50 Euro Unterschied. Fuer 160 Stunden Arbeit im Monat.\n\nMathe.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-003",
+    "topic": "buergergeld",
+    "archetype": "privilegien_check",
+    "text": "Buergergeld-Empfaenger: Miete wird bezahlt, Heizung wird bezahlt, GEZ-Befreiung, kostenloser Nahverkehr.\n\nMindestlohn-Arbeiter: Zahlt alles selbst.\n\nEiner von beiden steht jeden Morgen um 5:30 auf.\nRate mal welcher.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-004",
+    "topic": "steuerlast",
+    "archetype": "milchmaedchen",
+    "text": "Du verdienst 60.000 brutto.\nDein Arbeitgeber zahlt 75.000 (mit AG-Anteilen).\nDir bleiben 34.000 netto.\n\n41.000 Euro Differenz. Jedes Jahr.\n\nFuer Strassen mit Schlagloechern und Internet aus den 90ern.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-005",
+    "topic": "steuerlast",
+    "archetype": "laendervergleich",
+    "text": "Abgabenlast fuer Singles (OECD 2025):\n\nBelgien: 52,6%\nDeutschland: 47,9%\nSchweiz: 23,5%\n\nSchweizer Strassen: perfekt.\nSchweizer Internet: schnell.\nSchweizer Verwaltung: digital.\n\nWo geht unser Geld hin?",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-006",
+    "topic": "steuerlast",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Das Problem ist nicht, dass wir zu wenig Steuern zahlen.\n\nDas Problem ist, dass 50% Abgabenlast in einem Land mit kaputter Infrastruktur, Funklochern und Fax-Aemtern nicht als Skandal gilt.\n\nSondern als normal.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-007",
+    "topic": "buergergeld",
+    "archetype": "zitat_takedown",
+    "text": "\"Buergergeld sichert die Wuerde des Menschen.\"\n\nSichert es auch die Wuerde der Krankenschwester, die Vollzeit arbeitet und trotzdem zum Amt muss, weil ihr Gehalt nicht reicht?\n\nOder zaehlt deren Wuerde nicht?",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-008",
+    "topic": "buergergeld",
+    "archetype": "widerspruch",
+    "text": "Deutschland sucht haenderingend Handwerker.\nGleichzeitig beziehen 800.000 erwerbsfaehige Menschen unter 35 Buergergeld.\n\nDie Handwerksbetriebe machen zu.\nDas Buergergeld bleibt.\n\nIch stell das einfach mal so nebeneinander.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-009",
+    "topic": "steuerlast",
+    "archetype": "generationen_trigger",
+    "text": "Boomer 1985: Alleinverdiener, Eigenheim, 2 Kinder, Auto, Urlaub.\n\nDu 2026: Doppelverdiener, Mietwohnung, kein Kind, kein Auto, kein Urlaub.\n\nDein Steuersatz ist hoeher als seiner.",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-010",
+    "topic": "steuerlast",
+    "archetype": "milchmaedchen",
+    "text": "Steuereinnahmen Deutschland 2025: 916 Milliarden Euro.\n\nRekordwert. Jedes Jahr aufs Neue Rekordwert.\n\nUnd trotzdem: marode Bruecken, Lehrermangel, kaputte Schulen, kein Netz.\n\nDas ist kein Einnahme-Problem. Das ist ein Ausgabe-Problem.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-011",
+    "topic": "buergergeld",
+    "archetype": "laendervergleich",
+    "text": "Daenemark: Arbeitslosengeld hoch, aber nach 2 Jahren ist Schluss. Wer Jobangebote ablehnt, verliert alles.\n\nDeutschland: Buergergeld unbefristet. Sanktionen? Verfassungswidrig.\n\nDaenemarks Arbeitslosenquote: 2,7%.\nDeutschlands: 6,1%.\n\nKomisch.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-012",
+    "topic": "buergergeld",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Buergergeld ist keine Sozialpolitik. Es ist ein Instrument, um Arbeitsmarktstatistiken zu schoenen.\n\nWer Buergergeld bezieht, gilt nicht als arbeitslos.\n\nPraktisch, oder?",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-013",
+    "topic": "steuerlast",
+    "archetype": "widerspruch",
+    "text": "Der Staat nimmt so viel Steuern ein wie nie.\nDer Staat hat so viele Schulden wie nie.\nDer Staat hat so viele Beamte wie nie.\n\nDie Bruecken sind trotzdem marode.\n\nErklaert mir das einer.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-014",
+    "topic": "buergergeld",
+    "archetype": "milchmaedchen",
+    "text": "Kosten Buergergeld pro Jahr: 46 Milliarden Euro.\nKosten Bundeswehr pro Jahr: 52 Milliarden Euro.\n\nWir geben fast so viel fuer Buergergeld aus wie fuer Landesverteidigung.\n\nIn einem Land mit Fachkraeftemangel.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-015",
+    "topic": "steuerlast",
+    "archetype": "privilegien_check",
+    "text": "Selbststaendiger: Zahlt 19% MwSt, Einkommensteuer, Gewerbesteuer, IHK-Beitrag, private KV, keine Rente vom Staat.\n\nAngestellter im oeffentlichen Dienst: Unkuendbar, Pension, Beihilfe, 30 Tage Urlaub.\n\nBeide zahlen in den gleichen Staat.\nNur einer bekommt was zurueck.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-016",
+    "topic": "ukraine",
+    "archetype": "zitat_takedown",
+    "text": "Wagenknecht: \"Wir muessen auf Russland zugehen.\"\n\nUebersetzen wir das: \"Die Ukraine soll akzeptieren, dass Russland ihr Land besetzt.\"\n\nSo klingt 'Frieden' auf BSW-Deutsch.",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-017",
+    "topic": "ukraine",
+    "archetype": "laendervergleich",
+    "text": "Deutschland debattiert, ob man Taurus liefern soll.\n\nDie Ukraine debattiert, ob heute Nacht eine Rakete in eine Schule einschlaegt.\n\nPerspektive.",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-018",
+    "topic": "ukraine",
+    "archetype": "zitat_takedown",
+    "text": "\"Man muss auch Russlands Sicherheitsinteressen verstehen.\"\n\nRusslands Sicherheitsinteresse ist, dass seine Nachbarn keine Demokratien sind.\n\nMuss man das wirklich \"verstehen\"?",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-019",
+    "topic": "ukraine",
+    "archetype": "widerspruch",
+    "text": "\"Verhandlungen statt Waffen!\"\n\nWir verhandeln nicht mit Einbrechern, die im Wohnzimmer stehen, ob sie die Kueche behalten duerfen.\n\nAber bei Laendern soll das funktionieren?",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-020",
+    "topic": "ukraine",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Jeder Deutsche, der \"Frieden durch Verhandlung\" fordert, meint eigentlich \"mir ist die Ukraine egal, ich will guenstiges Gas\".\n\nDas ist nicht Pazifismus. Das ist Bequemlichkeit.",
+    "riskLevel": "hoch",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-021",
+    "topic": "ukraine",
+    "archetype": "milchmaedchen",
+    "text": "Deutsche Militaerhilfe fuer die Ukraine seit 2022: 28 Milliarden Euro.\nDeutsche Energiezahlungen an Russland 2021 (ein Jahr!): 26 Milliarden Euro.\n\nWir haben Russlands Krieg vorfinanziert und beschweren uns jetzt ueber die Kosten der Verteidigung.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-022",
+    "topic": "ukraine",
+    "archetype": "widerspruch",
+    "text": "Die gleichen Leute, die \"Nie wieder\" auf Demos skandieren, fordern jetzt, die Ukraine solle sich mit einer Teilbesetzung abfinden.\n\n\"Nie wieder\" - ausser es ist unbequem.",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-023",
+    "topic": "ukraine",
+    "archetype": "laendervergleich",
+    "text": "Polen: 4% des BIP fuer Verteidigung.\nEstland: 3,4%.\nDeutschland: muss erst darueber debattieren, ob 2% wirklich noetig sind.\n\nDie Laender, die Russland als Nachbarn haben, reden nicht. Die handeln.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-024",
+    "topic": "ukraine",
+    "archetype": "zitat_takedown",
+    "text": "Hoecke will \"Diplomatie mit Russland\".\nWagenknecht will \"Verhandlungen auf Augenhoehe\".\n\nWenn AfD und BSW sich einig sind, ist das kein gutes Zeichen fuer die Position.",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-025",
+    "topic": "ukraine",
+    "archetype": "verbotene_wahrheit",
+    "text": "Deutschland hat nach 1945 bedingungslose Kapitulation akzeptiert. Keinen Verhandlungsfrieden.\n\nWarum fordern wir von der Ukraine, was wir selbst nie akzeptiert haetten?",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-026",
+    "topic": "digitalisierung",
+    "archetype": "laendervergleich",
+    "text": "Steuererklarung:\nEstland: 5 Minuten, online.\nUK: 20 Minuten, online.\nDeutschland: 6 Stunden, Steuerberater empfohlen, ELSTER stuerzt ab.\n\n2026.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-027",
+    "topic": "digitalisierung",
+    "archetype": "widerspruch",
+    "text": "Deutschland hat einen Digitalminister.\nDeutschland hat kein flaechendeckendes 5G.\nDeutschland hat kein digitales Buergeramt.\nDeutschland faxed.\n\nWas genau macht der Digitalminister?",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-028",
+    "topic": "digitalisierung",
+    "archetype": "laendervergleich",
+    "text": "Firmgruendung:\nEstland: 15 Minuten, online, von ueberall.\nSingapur: 1 Tag, online.\nDeutschland: 6-8 Wochen, Notar, Handelsregister, IHK, Finanzamt, Gewerbeamt.\n\nUnd dann wundern wir uns ueber zu wenig Startups.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-029",
+    "topic": "digitalisierung",
+    "archetype": "milchmaedchen",
+    "text": "Deutschland hat bisher 4,2 Milliarden Euro fuer Digitalisierung der Verwaltung ausgegeben.\n\nErgebnis: Du musst immer noch persoenlich aufs Amt, um deinen Personalausweis abzuholen.\n\n4,2 Milliarden. Fuer Termine mit Wartenummer.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-030",
+    "topic": "digitalisierung",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Deutschland scheitert nicht an der Technik.\n\nDeutschland scheitert daran, dass jede Behoerde ihre eigene Software will, jedes Bundesland seine eigene Loesung baut, und am Ende nichts miteinander redet.\n\n16 Bundeslaender. 16 verschiedene Systeme. 0 Kompatibilitaet.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-031",
+    "topic": "digitalisierung",
+    "archetype": "widerspruch",
+    "text": "Deutschland hat kein Fachkraefteproblem.\n\nDeutschland hat ein \"wir zwingen Fachkraefte 30% ihrer Zeit mit Buerokratie zu verschwenden\"-Problem.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-032",
+    "topic": "digitalisierung",
+    "archetype": "laendervergleich",
+    "text": "Suedkorea: Gigabit-Internet fuer 20 Euro/Monat.\nDeutschland: 50 Mbit/s fuer 45 Euro/Monat. Wenn es funktioniert.\n\nSuedkorea ist nicht reicher als wir. Es hat nur frueher angefangen.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-033",
+    "topic": "digitalisierung",
+    "archetype": "milchmaedchen",
+    "text": "Eine deutsche Behoerde braucht im Schnitt 42 Tage fuer einen Bauantrag.\n\nEin AI-Agent kann den gleichen Antrag in 4 Minuten pruefen.\n\nDas Problem ist nicht die Technologie. Das Problem ist, dass niemand sie einsetzt.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-034",
+    "topic": "digitalisierung",
+    "archetype": "widerspruch",
+    "text": "Deutschland investiert Milliarden in Digitalisierung.\n\nGleichzeitig beschweren sich Aerzte, dass die elektronische Patientenakte nicht funktioniert.\n\nDie ePA basiert auf Fax-Infrastruktur.\n\nIch wuenschte das waere ein Witz.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-035",
+    "topic": "digitalisierung",
+    "archetype": "laendervergleich",
+    "text": "Ukraine (im Krieg): Alle Behoerdengaenge per App. Steuern, Fuehrerschein, Geburtsurkunde.\n\nDeutschland (kein Krieg): Bitte bringen Sie 3 Passfotos und eine beglaubigte Kopie mit.\n\nDie Ukraine digitalisiert unter Raketenbeschuss schneller als wir im Frieden.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-036",
+    "topic": "digitalisierung",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Das Fax ist in Deutschland nicht wegen der Technik noch aktiv.\n\nSondern weil eine ganze Generation von Beamten es nicht lernen WILL.\n\nEs ist kein Technik-Problem. Es ist ein Mentalitaets-Problem.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-037",
+    "topic": "digitalisierung",
+    "archetype": "milchmaedchen",
+    "text": "Durchschnittliche Wartezeit auf einen Buergeramtstermin in Berlin: 8 Wochen.\nDurchschnittliche Bearbeitungszeit am Termin: 7 Minuten.\n\n8 Wochen warten fuer 7 Minuten Arbeit.\n\nDas ist kein Service. Das ist eine Zumutung.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-038",
+    "topic": "gendern",
+    "archetype": "milchmaedchen",
+    "text": "80% der Deutschen lehnen Gendern ab.\n\nAber ARD, ZDF, jede Uni und jede Behoerde machen weiter.\n\nWenn Institutionen 80% der Bevoelkerung ignorieren, nennt man das normalerweise nicht \"progressiv\".",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-039",
+    "topic": "gendern",
+    "archetype": "zitat_takedown",
+    "text": "\"Sprache formt Realitaet.\"\n\nJa. Und die Realitaet ist, dass gegenderte Texte weniger gelesen werden, laengere Bearbeitungszeit brauchen und das Leseverstaendnis senken.\n\nQuelle: Jede linguistische Studie dazu.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-040",
+    "topic": "gendern",
+    "archetype": "widerspruch",
+    "text": "Lehrkraefte fehlen. Schulen verfallen. Kinder koennen nicht lesen.\n\nAber die Prioritaet ist, ob es \"Schueler\" oder \"Schueler*innen\" heisst.\n\nMan muss Prioritaeten haben.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-041",
+    "topic": "gendern",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Gendern ist kein Sprachthema. Es ist ein Klassethema.\n\nAkademiker*innen gendern. Handwerker nicht. Wer entscheidet hier fuer wen?\n\nSprache gehoert den Sprechern. Nicht den Universitaeten.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-042",
+    "topic": "gendern",
+    "archetype": "laendervergleich",
+    "text": "Frankreich: Die Academie Francaise hat Gendern verboten.\nSpanien: Die RAE lehnt Gendern ab.\nDeutschland: Jede Behoerde erfindet ihre eigenen Genderregeln.\n\nSelbst romanische Sprachen mit grammatischem Geschlecht kommen ohne klar.\n\nAber wir brauchen den Genderstern.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-043",
+    "topic": "gendern",
+    "archetype": "milchmaedchen",
+    "text": "Geschaetzter Mehraufwand durch gegenderte Verwaltungssprache: 20% laengere Texte, 15% hoehere Uebersetzungskosten.\n\nBei einem Verwaltungsapparat mit 5 Millionen Beschaeftigten.\n\nAber ist ja nur Steuergeld.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-044",
+    "topic": "gendern",
+    "archetype": "widerspruch",
+    "text": "Der Rat fuer deutsche Rechtschreibung empfiehlt keine Sonderzeichen im Wortinneren.\n\nStaedte, Unis und Behoerden machen es trotzdem.\n\nDie offizielle Rechtschreibung interessiert niemanden, solange die Ideologie stimmt.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-045",
+    "topic": "gendern",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Gendern hat der Gleichstellungsbewegung mehr geschadet als genuetzt.\n\nEs hat ein sachliches Anliegen in einen Kulturkampf verwandelt, den die Mehrheit ablehnt.\n\nDas ist nicht Fortschritt. Das ist strategisches Versagen.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-046",
+    "topic": "gruene",
+    "archetype": "widerspruch",
+    "text": "Die Gruenen haben in 3 Jahren Regierung geschafft, was der AfD in 10 Jahren nicht gelungen ist:\n\nDie Bevoelkerung gegen Klimapolitik aufzubringen.\n\nDas ist keine Leistung. Das ist politisches Versagen.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-047",
+    "topic": "gruene",
+    "archetype": "milchmaedchen",
+    "text": "Ideologie: Alle AKWs abschalten.\nRealitaet: Kohlestrom importieren.\nErgebnis: CO2-Bilanz schlechter als vorher.\n\nFrankreich: 70% Atomstrom, 56g CO2/kWh.\nDeutschland: 0% Atomstrom, 380g CO2/kWh.\n\nEvidenzbasierte Politik sieht anders aus.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-048",
+    "topic": "gruene",
+    "archetype": "zitat_takedown",
+    "text": "Habeck: \"Wir muessen den Menschen die Angst vor dem Wandel nehmen.\"\n\nVielleicht sollte man damit anfangen, nicht 20.000 Euro Heizungstausch bei Leuten mit 2.000 Euro netto zu fordern.\n\nDas ist keine Angst. Das ist Mathematik.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-049",
+    "topic": "gruene",
+    "archetype": "laendervergleich",
+    "text": "Schweden: CO2-Steuer seit 1991. Emissionen -27%. Wirtschaft +80%.\nDeutschland: Heizungsgesetz, Verbrennerverbot, Atom-Aus. Emissionen kaum gesunken. Wirtschaft stagniert.\n\nDer Unterschied: Schweden setzt auf Anreize. Deutschland setzt auf Verbote.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-050",
+    "topic": "gruene",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Die Gruenen sind die beste Wahlkampfhilfe, die die AfD je hatte.\n\nNicht weil Klimapolitik falsch ist. Sondern weil Bevormundungspolitik Gegenreaktionen erzeugt.\n\nJedes Verbot hat der AfD Stimmen gebracht. Jedes einzelne.",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-051",
+    "topic": "gruene",
+    "archetype": "widerspruch",
+    "text": "Die Gruenen wollen Fluege verteuern.\nDie Gruenen wollen Fleisch verteuern.\nDie Gruenen wollen Autofahren verteuern.\n\nAber der Vorwurf, sie seien eine Verbotspartei, ist unfair.\n\nSie verbieten ja nichts. Sie machen es nur unbezahlbar.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-052",
+    "topic": "gruene",
+    "archetype": "milchmaedchen",
+    "text": "Gruene Klimapolitik: Deutschland reduziert CO2-Ausstoss um 50 Millionen Tonnen.\n\nChina baut pro Woche 2 neue Kohlekraftwerke. Jedes einzelne stoesst 10 Millionen Tonnen/Jahr aus.\n\nDeutsche Einsparung von 5 Jahren = 2,5 Wochen China.\n\nAber klar, das Tempolimit rettet das Klima.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-053",
+    "topic": "gruene",
+    "archetype": "generationen_trigger",
+    "text": "Gruene 1985: Gegen Atomkraft auf der Strasse. Rebellion. Gegenkultur.\n\nGruene 2026: Im Ministerium. Mit Dienstwagen. Gegen alles was sie mal gefordert haben.\n\nJede Revolution frisst ihre Kinder. Die Gruenen haben ihre gefressen.",
+    "riskLevel": "mittel",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-054",
+    "topic": "gruene",
+    "archetype": "zitat_takedown",
+    "text": "\"Wir koennen uns keinen Klimawandel leisten.\"\n\nStimmt. Wir koennen uns aber auch keine Energiepolitik leisten, die Industrie aus dem Land treibt.\n\nBASF: nach China. VW: Stellenabbau. Thyssenkrupp: Krise.\n\nKlimaschutz ohne Wirtschaft ist ein teurer Witz.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-055",
+    "topic": "gruene",
+    "archetype": "widerspruch",
+    "text": "Die Gruenen haben LNG-Terminals in Rekordzeit genehmigt, als es ums Gas ging.\n\nAber neue Stromleitungen fuer Windkraft dauern 10 Jahre Genehmigungsverfahren.\n\nEs geht also. Man muss nur wollen.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-056",
+    "topic": "oerr",
+    "archetype": "privilegien_check",
+    "text": "ARD-Intendant: 400.000 Euro/Jahr.\nBundeskanzler: 350.000 Euro/Jahr.\n\nDer eine regiert ein Land.\nDer andere programmiert den Tatort.\n\nIrgendwas stimmt hier nicht.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-057",
+    "topic": "oerr",
+    "archetype": "milchmaedchen",
+    "text": "18,36 Euro/Monat Rundfunkbeitrag. Pflicht.\nNetflix: 13 Euro. Kuendbar.\nDisney+: 9 Euro. Kuendbar.\nSpotify: 10 Euro. Kuendbar.\n\nDer teuerste Streaming-Dienst ist der, den du nicht kuendigen darfst.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-058",
+    "topic": "oerr",
+    "archetype": "milchmaedchen",
+    "text": "OeRR-Budget: 8,5 Milliarden Euro pro Jahr.\nDavon: 70+ Radiosender, 21 TV-Sender, tausende Websites.\n\nDurchschnittliches Alter der TV-Zuschauer: 64 Jahre.\n\n8,5 Milliarden fuer ein Publikum, das in 20 Jahren nicht mehr da ist.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-059",
+    "topic": "oerr",
+    "archetype": "widerspruch",
+    "text": "\"Der oeffentlich-rechtliche Rundfunk ist systemrelevant.\"\n\nSystemrelevant wie Krankenhaeuser, die unterfinanziert sind?\nOder systemrelevant wie Schulen, die auseinanderfallen?\n\nFuer Krankenhaeuser gibt es kein Zwangsabo.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-060",
+    "topic": "oerr",
+    "archetype": "laendervergleich",
+    "text": "BBC: 1 TV-Sender + iPlayer. Budget: 5 Milliarden.\nARD/ZDF: 21 TV-Sender + Mediathek. Budget: 8,5 Milliarden.\n\nDie BBC produziert Sherlock, Planet Earth, Peaky Blinders.\nARD/ZDF produzieren... den 1847. Tatort.\n\nMehr Geld. Weniger Output. Deutsches Modell.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-061",
+    "topic": "oerr",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Der oeffentlich-rechtliche Rundfunk waere laengst reformiert, wenn die Entscheider nicht selbst davon profitieren wuerden.\n\nMinisterpraesidenten sitzen in den Rundfunkraeten.\nDie Rundfunkraete bestimmen die Gehaelter.\n\nWer kontrolliert die Kontrolleure?",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-062",
+    "topic": "oerr",
+    "archetype": "zitat_takedown",
+    "text": "\"Der Rundfunkbeitrag ist der Preis fuer Demokratie.\"\n\n220 Euro im Jahr, damit Tom Buhrow 400.000 verdient.\n\nDemokratie ist, wenn der Buerger entscheiden darf. Hier entscheidet der Buerger gar nichts.",
+    "riskLevel": "niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-063",
+    "topic": "oerr",
+    "archetype": "privilegien_check",
+    "text": "OeRR-Redakteur im Durchschnitt: 95.000 Euro/Jahr.\nDurchschnittslohn Deutschland: 45.000 Euro/Jahr.\n\nDer eine wird zwangsfinanziert.\nDer andere finanziert.\n\nSolidaritaet.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-064",
+    "topic": "migration",
+    "archetype": "laendervergleich",
+    "text": "Kanada: Punktesystem. Qualifikation entscheidet wer kommt.\nAustralien: Punktesystem. Bedarf entscheidet.\nDeutschland: Kein System. Debatte seit 10 Jahren.\n\nEs ist keine Xenophobie, funktionierende Systeme zu kopieren.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-065",
+    "topic": "migration",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Die meisten Migranten wollen arbeiten.\n\nDas Problem ist ein System, das Menschen 18 Monate lang verbietet zu arbeiten und sie dann dafuer kritisiert, dass sie nicht arbeiten.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-066",
+    "topic": "migration",
+    "archetype": "widerspruch",
+    "text": "Fachkraeftemangel in der Pflege: 200.000 Stellen unbesetzt.\nAuslaendische Pflegekraefte: Warten 14 Monate auf Berufsanerkennung.\n\nWir brauchen sie. Aber wir machen ihnen das Arbeiten unmoeglich.\n\nDas ist kein Migrationsproblem. Das ist ein Buerokratieproblem.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-067",
+    "topic": "migration",
+    "archetype": "milchmaedchen",
+    "text": "Ein indischer IT-Ingenieur will in Deutschland arbeiten.\n\nDauer Visumsprozess: 6-9 Monate.\nKosten: 2.000 Euro fuer Uebersetzungen und Beglaubigungen.\nSprache: Deutsch B1 Pflicht.\n\nIn Kanada: 3 Monate. Online. Englisch reicht.\n\nRate mal wo er hingeht.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-068",
+    "topic": "migration",
+    "archetype": "widerspruch",
+    "text": "Deutschland: \"Wir brauchen Fachkraefte!\"\nAuch Deutschland: Auslaendische Abschluesse werden monatelang nicht anerkannt. Sprachkurse sind ueberbucht. Arbeitserlaubnis dauert ewig.\n\nWir bitten Fachkraefte zu kommen und behandeln sie dann wie unerwuenschte Gaeste.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-069",
+    "topic": "migration",
+    "archetype": "zitat_takedown",
+    "text": "\"Wir koennen nicht alle aufnehmen.\"\n\nStimmt. Und genau deshalb brauchen wir ein System, das zwischen Fachkraft und Asyl unterscheidet.\n\nAber das wuerde erfordern, dass die Politik Entscheidungen trifft. Und das vermeidet sie seit 2015.",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-070",
+    "topic": "ai_jobs",
+    "archetype": "verbotene_wahrheit",
+    "text": "\"AI wird keine Jobs ersetzen.\"\n\nRichtig. AI wird keine Jobs ersetzen.\n\nMenschen, die AI nutzen, werden Menschen ersetzen, die AI nicht nutzen.\n\nDas ist ein Unterschied.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-071",
+    "topic": "ai_jobs",
+    "archetype": "laendervergleich",
+    "text": "Die EU reguliert AI.\nDie USA bauen AI.\nChina deployed AI.\n\nIn 5 Jahren reden wir ueber den \"AI-Gap\" wie heute ueber den Digital-Gap.\n\nAber hey, wir haben den AI Act.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-072",
+    "topic": "ai_jobs",
+    "archetype": "milchmaedchen",
+    "text": "US-Unternehmen 2026: \"Wir haben 40% der Routineaufgaben durch AI-Agents ersetzt.\"\n\nDeutsche Unternehmen 2026: \"Wir beobachten die AI-Entwicklung.\"\n\nBeobachtet ruhig weiter.\n\nWir dokumentieren was die anderen bauen: clawledge.com",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-073",
+    "topic": "ai_jobs",
+    "archetype": "widerspruch",
+    "text": "Deutschland hat Angst vor AI.\nDeutschland hat Fachkraeftemangel.\n\nAI koennte den Fachkraeftemangel loesen.\n\nAber wir regulieren lieber als wir implementieren.\n\nIch stell das einfach mal so nebeneinander.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-074",
+    "topic": "ai_jobs",
+    "archetype": "zitat_takedown",
+    "text": "\"Wir muessen AI verantwortungsvoll einsetzen.\"\n\nWas genau bedeutet das? Jedes Unternehmen, das das sagt, meint: \"Wir tun erstmal nichts.\"\n\nVerantwortungsvoll waere, sich vorzubereiten statt zu warten.\n\nclawledge.com - Echte AI-Agent Use Cases. Keine Theorie.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-075",
+    "topic": "ai_jobs",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: 90% der \"AI-Experten\" auf LinkedIn haben noch nie einen AI-Agent deployed.\n\nSie reden ueber AI. Sie nutzen sie nicht.\n\nWir dokumentieren echte Deployments. Keine PowerPoint-Folien.\n\nclawledge.com",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-076",
+    "topic": "ai_jobs",
+    "archetype": "generationen_trigger",
+    "text": "Gen Z: Lernt Prompting, baut AI-Agents, automatisiert Workflows.\n\nManager Ue50: \"AI ist nur ein Hype.\"\n\nDer gleiche Manager Ue50 hat 2005 gesagt: \"Das Internet ist nur ein Hype.\"\n\nManche lernen es nie.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-077",
+    "topic": "ai_jobs",
+    "archetype": "milchmaedchen",
+    "text": "Ein AI-Agent kostet 2-20 Dollar pro Tag.\nEin Sachbearbeiter kostet 200 Euro pro Tag.\n\nDer AI-Agent arbeitet 24/7. Keine Krankheitstage. Kein Urlaub. Keine Kuendigung.\n\nDie Frage ist nicht OB Unternehmen umsteigen. Die Frage ist WANN.\n\nclawledge.com - Echte Zahlen. Echte Cases.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-078",
+    "topic": "ai_jobs",
+    "archetype": "laendervergleich",
+    "text": "Startups gegruendet mit AI-Fokus 2025:\nUSA: 4.200+\nChina: 1.800+\nUK: 900+\nDeutschland: 340.\n\nDeutschland ist nicht mal in den Top 5.\n\nAber wir haben eine \"KI-Strategie\". Auf Papier.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-079",
+    "topic": "ai_jobs",
+    "archetype": "widerspruch",
+    "text": "Deutsche Unis produzieren Top-AI-Forscher.\nDiese Forscher gehen nach Stanford, MIT, Google DeepMind.\n\nDeutschland bildet die Leute aus. Andere Laender profitieren davon.\n\nWir sind die Ausbildungswerkstatt der Welt. Nur ohne eigene Werkbank.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-080",
+    "topic": "ai_jobs",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Dein Unternehmen braucht keine AI-Strategie.\n\nDein Unternehmen braucht EINE PERSON, die AI tatsaechlich nutzt und dem Rest zeigt, was moeglich ist.\n\nStrategie-Papiere aendern nichts. Ergebnisse schon.\n\nclawledge.com - 300+ echte AI-Agent Cases.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-081",
+    "topic": "ai_jobs",
+    "archetype": "milchmaedchen",
+    "text": "McKinsey-Studie: 30% aller Taetigkeiten in Deutschland koennen bis 2030 automatisiert werden.\n\nDas sind 12 Millionen Jobs.\n\n\"AI wird meinen Job nicht ersetzen\" ist der neue \"Das Internet ist nur ein Spielzeug.\"\n\nVorbereiten oder ueberrascht werden. clawledge.com",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": true,
+    "status": "ready"
+  },
+  {
+    "id": "RB-082",
+    "topic": "generationen",
+    "archetype": "generationen_trigger",
+    "text": "Boomer: \"Wir haben uns alles hart erarbeitet.\"\n\nAuch Boomer: Haus fuer 80.000 DM gekauft. Rente sicher. Sparbuch mit 4% Zinsen.\n\nGen Z: Miete 50% vom Netto. Rente? Lol.\n\nVielleicht liegt es nicht an der Arbeitseinstellung.",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-083",
+    "topic": "generationen",
+    "archetype": "milchmaedchen",
+    "text": "Durchschnittlicher Hauspreis 1990: 200.000 DM (~100.000 Euro).\nDurchschnittlicher Hauspreis 2026: 380.000 Euro.\n\nDurchschnittslohn 1990: 3.000 DM brutto.\nDurchschnittslohn 2026: 4.100 Euro brutto.\n\nHaeuser: 3,8x teurer. Loehne: 2,7x hoeher.\n\nMathe.",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-084",
+    "topic": "generationen",
+    "archetype": "widerspruch",
+    "text": "Gen Z soll Rente fuer die Boomer zahlen.\nGen Z soll die Klimaschulden tilgen.\nGen Z soll die Infrastruktur sanieren.\nGen Z soll den Fachkraeftemangel loesen.\n\nAber wenn Gen Z sagt \"das System ist kaputt\", heisst es: \"Ihr seid einfach faul.\"",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-085",
+    "topic": "generationen",
+    "archetype": "privilegien_check",
+    "text": "Rente eines Beamten der 1990 in Pension ging: 3.400 Euro/Monat. Inflationsangepasst.\n\nVoraussichtliche Rente eines heute 30-Jaehrigen nach 40 Jahren Einzahlung: 1.200 Euro. Nicht inflationsangepasst.\n\nDer eine hat es bekommen. Der andere zahlt dafuer.\n\nGenerationengerechtigkeit.",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-086",
+    "topic": "generationen",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Die Boomer-Generation hat nicht \"alles aufgebaut\".\n\nSie hat von einem Nachkriegs-Wirtschaftswunder profitiert, das die Generation davor aufgebaut hat.\n\nUnd hinterlaesst der naechsten: Klimaschulden, Rentenloch, Infrastruktur von 1990.",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-087",
+    "topic": "generationen",
+    "archetype": "milchmaedchen",
+    "text": "Anzahl Beitragszahler pro Rentner:\n1960: 6 zu 1.\n2026: 2 zu 1.\n2040: 1,5 zu 1.\n\nDie Rente ist sicher. Die Frage ist nur: fuer wen?",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-088",
+    "topic": "wohnungsmarkt",
+    "archetype": "milchmaedchen",
+    "text": "Durchschnittsmiete Berlin 2015: 8 Euro/qm.\nDurchschnittsmiete Berlin 2026: 16 Euro/qm.\n\nDurchschnittslohn-Steigerung im gleichen Zeitraum: 20%.\n\nMiete: verdoppelt. Lohn: +20%.\n\nMathe.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-089",
+    "topic": "wohnungsmarkt",
+    "archetype": "widerspruch",
+    "text": "Deutschland braucht 400.000 neue Wohnungen pro Jahr.\nDeutschland baut 200.000.\n\nLoesung der Politik: Mietpreisbremse.\n\nMietpreisbremse schafft keine einzige neue Wohnung.\n\nAber es klingt gut in Wahlprogrammen.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-090",
+    "topic": "wohnungsmarkt",
+    "archetype": "generationen_trigger",
+    "text": "Deine Eltern 1995: Einfamilienhaus fuer 3 Jahresgehaelter.\nDu 2026: 60-qm-Wohnung fuer 10 Jahresgehaelter.\n\n\"Ihr muesst halt sparen.\"\n\nJa, super. Sparrate muesste bei 100% liegen.",
+    "riskLevel": "niedrig",
+    "bestTiming": "so_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-091",
+    "topic": "wohnungsmarkt",
+    "archetype": "laendervergleich",
+    "text": "Wien: 60% der Bevoelkerung lebt in Sozialwohnungen. Durchschnittsmiete: 7 Euro/qm.\nMuenchen: 10% Sozialwohnungen. Durchschnittsmiete: 20 Euro/qm.\n\nWien baut seit 100 Jahren konsequent. Muenchen diskutiert seit 30 Jahren.\n\nErgebnisse vs. Debatten.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-092",
+    "topic": "wohnungsmarkt",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Die Wohnungskrise ist gewollt.\n\nHauseigentuemer (die Waehlerschaft der Regierungsparteien) profitieren von steigenden Preisen.\n\nWarum sollte eine Regierung Preise senken, die ihre Waehler reich machen?",
+    "riskLevel": "mittel",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-093",
+    "topic": "beamtentum",
+    "archetype": "privilegien_check",
+    "text": "Beamter: Unkuendbar, Pension 3.200 Euro, Beihilfe statt Krankenkasse, keine Sozialabgaben, 30+ Tage Urlaub.\n\nSelbststaendiger: 60 Stunden/Woche, Rente 1.100 Euro, private KV 800 Euro/Monat.\n\nEiner von beiden zahlt den anderen.\nRate mal welcher.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-094",
+    "topic": "beamtentum",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Der oeffentliche Dienst ist Deutschlands groesstes Leistungsproblem.\n\nNicht wegen der Leute die dort arbeiten. Sondern weil das System Leistung weder belohnt noch bestraft.\n\nWenn du unkuendbar bist, gibt es keinen Grund dich zu verbessern.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_abend",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-095",
+    "topic": "beamtentum",
+    "archetype": "milchmaedchen",
+    "text": "Pensionslasten des Bundes: 800 Milliarden Euro. Tendenz steigend.\n\nDas sind 800 Milliarden, die weder in die Rente der Angestellten noch in Infrastruktur fliessen.\n\nSondern in garantierte Altersbezuege fuer eine Berufsgruppe, die nie ins Sozialsystem eingezahlt hat.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-096",
+    "topic": "beamtentum",
+    "archetype": "widerspruch",
+    "text": "Deutschland hat 5 Millionen Beamte und Angestellte im oeffentlichen Dienst.\n\nDie Verwaltung waechst schneller als die Wirtschaft.\n\nTrotzdem dauert jeder Antrag laenger als vor 10 Jahren.\n\nMehr Personal. Weniger Output. Erklaert mir das einer.",
+    "riskLevel": "niedrig",
+    "bestTiming": "mo_morgen",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-097",
+    "topic": "beamtentum",
+    "archetype": "laendervergleich",
+    "text": "Daenemark: 10% der Beschaeftigten im oeffentlichen Dienst. Verwaltung digitalisiert. Wartezeit: minimal.\n\nDeutschland: 12% im oeffentlichen Dienst. Verwaltung analog. Wartezeit: Wochen.\n\nMehr Beamte und trotzdem langsamer.\n\nDas Problem ist nicht die Anzahl. Es ist das System.",
+    "riskLevel": "niedrig",
+    "bestTiming": "di_do_mittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-098",
+    "topic": "tempolimit",
+    "archetype": "laendervergleich",
+    "text": "Deutsche diskutieren seit 50 Jahren ueber Tempolimit.\n\nIn der gleichen Zeit hat China 40.000 km Hochgeschwindigkeitszug gebaut.\n\nPrioritaeten.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-099",
+    "topic": "tempolimit",
+    "archetype": "widerspruch",
+    "text": "CO2-Einsparung durch Tempolimit 130: 6,7 Millionen Tonnen/Jahr.\nCO2-Einsparung durch Home-Office-Pflicht 2 Tage/Woche: geschaetzt 12 Millionen Tonnen/Jahr.\n\nUeber Tempolimit reden wir seit 50 Jahren.\nUeber Home-Office-Pflicht redet niemand.\n\nWeil es nicht ums Klima geht. Es geht ums Auto.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  },
+  {
+    "id": "RB-100",
+    "topic": "tempolimit",
+    "archetype": "verbotene_wahrheit",
+    "text": "Unpopular Opinion: Die Tempolimit-Debatte ist der beste Beweis, dass Deutschland keine echten Probleme loesen will.\n\n6,7 Millionen Tonnen CO2. Dafuer 50 Jahre Debatte.\n\nIndustrie-Emissionen: 181 Millionen Tonnen. Darueber redet keiner so emotional.\n\nEs geht nicht um CO2. Es geht um Symbolpolitik.",
+    "riskLevel": "sehr_niedrig",
+    "bestTiming": "fr_nachmittag",
+    "clawledgePlug": false,
+    "status": "ready"
+  }
+]

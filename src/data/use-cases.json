@@ -11339,5 +11339,173 @@
     "relatedSkills": [],
     "relatedRepos": [],
     "revenueEstimate": "MVP Development Service"
+  },
+  {
+    "id": "brsen-investment-analyst",
+    "title": "Börsen- & Investment-Analyst",
+    "description": "Ein Skill, der US-Aktien, A-Shares und HK-Stocks analysiert, Finanzdaten von Alpha Vantage/SEC zieht und detaillierte Reports (inkl. DuPont-Analyse) erstellt.",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nEin Skill, der US-Aktien, A-Shares und HK-Stocks analysiert, Finanzdaten von Alpha Vantage/SEC zieht und detaillierte Reports (inkl. DuPont-Analyse) erstellt.\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://openclaw.ai)",
+    "category": "finance",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://openclaw.ai",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-03-01",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "vollautomatischer-saasgrowthmission-control",
+    "title": "Vollautomatischer SaaS‑Growth‑„Mission Control“",
+    "description": "10 OpenClaw‑Agenten laufen 24/7 für ein SaaS, übernehmen Marketing, Support und Ops mit dem Ziel, MRR massiv zu steigern. [reddit]​",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\n10 OpenClaw‑Agenten laufen 24/7 für ein SaaS, übernehmen Marketing, Support und Ops mit dem Ziel, MRR massiv zu steigern. [reddit]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.reddit.com/r/OpenClawUseCases/comments/1qsjkx4/realworld_use_case_running_10_openclaw_agents_247/)",
+    "category": "money-making",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "reddit",
+      "url": "https://www.reddit.com/r/OpenClawUseCases/comments/1qsjkx4/realworld_use_case_running_10_openclaw_agents_247/",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-03-01",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "vollautomation-alltag-98-real-automations",
+    "title": "Vollautomation Alltag („98 Real Automations“)",
+    "description": "Setups mit Spam‑Cleanup, Auto‑Grocery‑Orders, Message‑Management, Flug‑Check‑ins, Reisekosten‑Split, PDF‑Generierung und Telefon‑Calls. [reddit]​",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nSetups mit Spam‑Cleanup, Auto‑Grocery‑Orders, Message‑Management, Flug‑Check‑ins, Reisekosten‑Split, PDF‑Generierung und Telefon‑Calls. [reddit]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.reddit.com/r/openclaw/comments/1r5ch5g/openclaw_in_production_98_real_automations_people/)",
+    "category": "communication",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "reddit",
+      "url": "https://www.reddit.com/r/openclaw/comments/1r5ch5g/openclaw_in_production_98_real_automations_people/",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-03-01",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "competitormonitoringbot",
+    "title": "Competitor‑Monitoring‑Bot",
+    "description": "Wöchentlicher Bot, der Wettbewerber‑Websites auf Produkt‑ und Preisänderungen crawlt und strukturierte Reports liefert. [tldl]​",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nWöchentlicher Bot, der Wettbewerber‑Websites auf Produkt‑ und Preisänderungen crawlt und strukturierte Reports liefert. [tldl]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.tldl.io/blog/openclaw-use-cases-2026)",
+    "category": "development",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://www.tldl.io/blog/openclaw-use-cases-2026",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-03-01",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "workflowtrigger-user-joins-server",
+    "title": "Workflow‑Trigger „User joins Server“",
+    "description": "Workflow‑Feature, das neue Server‑Mitglieder begrüßt, Rollen vergibt und Onboarding‑Infos sendet. [tencentcloud]​",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nWorkflow‑Feature, das neue Server‑Mitglieder begrüßt, Rollen vergibt und Onboarding‑Infos sendet. [tencentcloud]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.tencentcloud.com/techpedia/136815)",
+    "category": "productivity",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "blog",
+      "url": "https://www.tencentcloud.com/techpedia/136815",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-03-01",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
+  },
+  {
+    "id": "multiagentteamwork-in-chats",
+    "title": "Multi‑Agent‑Teamwork in Chats",
+    "description": "Zwei+ OpenClaw‑Agenten kooperieren direkt in WhatsApp/Telegram/Discord‑Chats und lösen Aufgaben gemeinsam. [reddit]​",
+    "fullContent": "Community shared their OpenClaw setup.\n\n## Overview\n\nZwei+ OpenClaw‑Agenten kooperieren direkt in WhatsApp/Telegram/Discord‑Chats und lösen Aufgaben gemeinsam. [reddit]​\n\n## Setup\n\n**Requirements:** OpenClaw or Clawdbot, Always-on machine (Mac Mini, VPS, etc.), Claude API Key\n\n**Estimated setup time:** 1-2 hours\n**Monthly API cost:** $10-30\n\n## Source\n\n[Original post](https://www.reddit.com/r/openclaw/comments/1rf5cl7/what_is_everyone_actually_doing_with_openclaw/)",
+    "category": "communication",
+    "tags": [],
+    "difficulty": "intermediate",
+    "estimatedSetupTime": "1-2 hours",
+    "source": {
+      "type": "reddit",
+      "url": "https://www.reddit.com/r/openclaw/comments/1rf5cl7/what_is_everyone_actually_doing_with_openclaw/",
+      "author": "Community"
+    },
+    "requirements": [
+      "OpenClaw or Clawdbot",
+      "Always-on machine (Mac Mini, VPS, etc.)",
+      "Claude API Key"
+    ],
+    "monthlyApiCost": "$10-30",
+    "monetizable": false,
+    "verified": false,
+    "dateAdded": "2026-03-01",
+    "featured": false,
+    "impactScore": 5,
+    "relatedSkills": [],
+    "relatedRepos": []
   }
 ]

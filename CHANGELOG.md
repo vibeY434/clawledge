@@ -15,6 +15,36 @@
 
 ## 2026-03-01 — claude
 
+### Ragebait Repository (100 Tweets)
+
+- **Neu:** `scripts/content/ragebait-repository.json`
+  - 100 tweet-queue-kompatible Ragebait-Tweets fuer den DE-Markt
+  - 13 Themen: Buergergeld (8), Steuerlast (7), Ukraine (10), Digitalisierung (12), Gendern (8), Gruene (10), OeRR (8), Migration (6), AI/Jobs (12), Generationen (6), Wohnungsmarkt (5), Beamtentum (5), Tempolimit (3)
+  - 7 Archetypen: widerspruch, milchmaedchen, laendervergleich, zitat_takedown, verbotene_wahrheit, privilegien_check, generationen_trigger
+  - Risk-Verteilung: 78 niedrig, 21 mittel, 1 hoch
+  - Schema: id, topic, archetype, text, riskLevel, bestTiming, clawledgePlug, status
+- **Neu:** `scripts/content/ragebait-repository.md`
+  - Markdown-Uebersicht aller 100 Tweets, nach Thema gruppiert, copy-paste-ready
+
+### Wie es gemacht wurde
+- Tweets auf Basis des Social Media Engagement Guide erstellt und gegen die Ragebait-Regeln geprueft
+- JSON-Schema kompatibel mit tweet-queue.json Pipeline
+- MD-Datei automatisch aus JSON generiert
+
+### OpenClaw Use Cases Import (Excel 01.03.2026)
+
+- **Geaendert:** `src/data/use-cases.json`
+  - 6 neue Use Cases aus Excel-Import (6 LLM-Sheets: Gemini, Kimi, Grok, Perplexity, ChatGPT, Copilot)
+  - 358 extrahiert, 352 Duplikate erkannt, 25 Low-Quality gefiltert, 6 importiert
+  - Neue Cases: Boersen-Analyst (finance), SaaS Growth Mission Control (money-making), Alltags-Vollautomation (communication), Competitor Monitoring Bot (development), Workflow Trigger (productivity), Multi-Agent Teamwork (communication)
+  - Gesamt: 334 Use Cases in der Datenbank
+
+### Wie es gemacht wurde
+- Excel via bun+xlsx-Paket geparsed (kein pip verfuegbar)
+- Extraktion aus 6 unterschiedlich formatierten LLM-Sheets
+- Dedup via add-cases.mjs Pipeline (URL + ID Matching)
+- Manuelle Bereinigung: 25 X-Post-artige Eintraege als nicht-Use-Cases entfernt
+
 ### Social Media Engagement Guide (DE-Markt)
 
 - **Neu:** `scripts/content/social-media-engagement-guide.md`
