@@ -13,7 +13,8 @@
     "stats": "node scripts/stats.mjs",
     "weekly": "node scripts/add-cases.mjs && npm run build && npx vercel deploy --prod --yes",
     "sync:openclaw-changelog": "node scripts/sync-openclaw-changelog.mjs",
-    "import:vps": "bash scripts/run-vps-import.sh"
+    "import:vps": "bash scripts/run-vps-import.sh",
+    "x:ops": "node ../scripts/x-jobs/x-job-ops.mjs --status"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",

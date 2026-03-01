@@ -1,11 +1,21 @@
 [
   {
+    "id": "ENG-06",
+    "pillar": "engagement",
+    "status": "posted",
+    "scheduledFor": null,
+    "postedAt": "2026-02-27",
+    "postfastId": "e5f2793e-ec99-4d06-93f1-0acafcc59239",
+    "generated": "dynamic",
+    "text": "328 OpenClaw use cases and counting! 🎉\n\nWhat category should we add next?\n\n🛠️ Development\n💰 Money Making\n🏠 Smart Home\n🏥 Health\n🤪 Wild & Experimental\n\nReply with your pick 👇\n\nclawledge.com\n\nFollow @clawledge — we feature every setup that tags us.\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
+  },
+  {
     "id": "STAT-01",
     "pillar": "stats",
     "status": "scheduled",
     "scheduledFor": "2026-02-17",
     "postedAt": null,
-    "text": "Clawledge by the numbers:\n\n• 292 real use cases\n• 13 categories\n• 95 beginner-friendly setups\n• Every single one with a verified source\n\nNot scraped. Not AI-generated listicles. Hand-curated.\n\n🦞 clawledge.com\n\nFollow @clawledge for daily OpenClaw use cases.\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
+    "text": "Clawledge by the numbers:\n\n• 328 real use cases\n• 13 categories\n• 95 beginner-friendly setups\n• Every single one with a verified source\n\nNot scraped. Not AI-generated listicles. Hand-curated.\n\n🦞 clawledge.com\n\nFollow @clawledge for daily OpenClaw use cases.\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
   },
   {
     "id": "STAT-02",
@@ -13,7 +23,7 @@
     "status": "pending",
     "scheduledFor": null,
     "postedAt": null,
-    "text": "95 out of 292 OpenClaw use cases on Clawledge are beginner-friendly.\n\nYou don't need to be a developer to run your own AI agent.\n\nStart here → clawledge.com\n\nFollow @clawledge — we add new cases every week.\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
+    "text": "95 out of 328 OpenClaw use cases on Clawledge are beginner-friendly.\n\nYou don't need to be a developer to run your own AI agent.\n\nStart here → clawledge.com\n\nFollow @clawledge — we add new cases every week.\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
   },
   {
     "id": "STAT-03",
@@ -21,7 +31,7 @@
     "status": "pending",
     "scheduledFor": null,
     "postedAt": null,
-    "text": "What are people actually building with OpenClaw?\n\n📊 Our data from 292 real use cases:\n\n🛠 Development — 71\n⚡ Productivity — 60\n💬 Communication — 38\n🏠 Smart Home — 23\n🔬 Research — 20\n🤪 Wild — 14\n✍️ Content — 13\n🏥 Health — 12\n\nFull directory → clawledge.com\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
+    "text": "What are people actually building with OpenClaw?\n\n📊 Our data from 328 real use cases:\n\n🛠 Development — 72\n⚡ Productivity — 65\n🤪 Wild — 40\n💬 Communication — 38\n🏠 Smart Home — 23\n🔬 Research — 21\n✍️ Content — 14\n🏥 Health — 12\n💰 Finance/Crypto — 14\n\nFull directory → clawledge.com\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
   },
   {
     "id": "FEAT-01",
@@ -74,17 +84,19 @@
   {
     "id": "ENG-04",
     "pillar": "hottake",
-    "status": "scheduled",
+    "status": "posted",
     "scheduledFor": "2026-02-19",
-    "postedAt": null,
+    "postedAt": "2026-02-26",
+    "postfastId": "42494fd3-b415-4b2a-a29b-9741af7036b2",
     "text": "Unpopular opinion: Most \"AI agent\" content on X is hype.\n\n\"10x your productivity\" threads with zero proof.\n\nThat's why we built Clawledge — 292 REAL use cases with verified sources. No hype. No affiliate links. Just what actually works.\n\nclawledge.com\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
   },
   {
     "id": "TIP-01",
     "pillar": "tip",
-    "status": "pending",
+    "status": "posted",
     "scheduledFor": null,
-    "postedAt": null,
+    "postedAt": "2026-02-25",
+    "postfastId": "d0d646ac-241c-4443-ae76-5f27c127a04b",
     "text": "Want to try OpenClaw but don't know where to start?\n\nStep 1: Pick a beginner case from clawledge.com\nStep 2: Click the source link\nStep 3: Follow along\n\n95 beginner-friendly setups. All free. All verified.\n\nFollow @clawledge for weekly OpenClaw tips.\n\n#OpenClaw #Clawdbot #Clawledge #AI #AIAgents #BuildInPublic"
   },
   {
